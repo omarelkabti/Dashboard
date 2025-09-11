@@ -1,0 +1,8 @@
+metric_name,metric_value,metric_type
+Total Resources,855.0,count
+Total FTE,395.01099999999997,fte
+Employees,649.0,count
+Contractors,0.0,count
+Overallocated,12.0,count
+Underallocated,0.0,count
+Unassigned,461.0,count

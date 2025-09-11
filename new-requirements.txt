@@ -1,0 +1,208 @@
+Got it — I’ll harden the spec so Cursor treats the **true headers as a data row that sits between file rows 1 and 2** (Excel-style), then re-headers the DataFrame and skips any blank spacer row that follows.
+
+Here’s the **Cursor-ready patch** to the brief (drop-in replacement for the ETL parts). It’s robust to slight shifts and works across all files with this pattern.
+
+---
+
+# Patch: Header Handling + Dynamic Workstream Detection
+
+## Ingestion & Header Detection (replace 3.1)
+
+**Problem:** The CSV’s *first actual header labels* live inside the sheet as a data row (e.g., Excel row 1), followed by a blank spacer row (Excel row 2). Pandas sees generic `Unnamed:` columns.
+
+**Required behavior**
+
+1. Load CSV with **no header**.
+2. **Detect the header row** by searching the first \~10 rows for sentinel labels (e.g., “Supervisor or Hiring Manager”, “Resource or Rec/Offer”, “L3 Org”).
+3. Set that row as `df.columns`, **drop all rows ≤ header row**, and **drop the next spacer row if it’s empty**.
+4. Trim/normalize column names and proceed.
+
+### Cursor-ready code (drop into `src/etl.py`)
+
+```python
+import pandas as pd
+import re
+
+SENTINELS = {"Supervisor or Hiring Manager", "Resource or Rec/Offer", "L3 Org"}
+
+def _likely_header_row(row_vals) -> bool:
+    vals = {str(v).strip() for v in row_vals if pd.notna(v)}
+    # require at least 2 sentinel hits to avoid false positives
+    return len(SENTINELS.intersection(vals)) >= 2
+
+def read_with_embedded_header(csv_path: str) -> pd.DataFrame:
+    # 1) read raw with no header
+    raw = pd.read_csv(csv_path, header=None, dtype=str, keep_default_na=False)
+    # 2) find header row in first 10 rows
+    header_idx = None
+    scan_rows = min(10, len(raw))
+    for i in range(scan_rows):
+        if _likely_header_row(raw.iloc[i].tolist()):
+            header_idx = i
+            break
+    if header_idx is None:
+        raise ValueError("Header row not found — expected embedded header between rows 1–2.")
+
+    # 3) apply header and drop rows up to header row
+    header = raw.iloc[header_idx].tolist()
+    df = raw.iloc[header_idx + 1 :].copy()
+    df.columns = header
+
+    # 4) drop spacer row if it’s empty
+    if not df.empty and df.iloc[0].replace("", pd.NA).isna().all():
+        df = df.iloc[1:].copy()
+
+    # 5) strip whitespace from column names
+    df.columns = [str(c).strip() for c in df.columns]
+    # normalize fully empty column names to predictable placeholders
+    df.columns = [c if c and c != "nan" else f"col_{i}" for i, c in enumerate(df.columns)]
+    return df
+```
+
+## Column Mapping (replace 3.2 first bullet)
+
+Map the **first seven** business columns after header detection:
+
+```
+"Supervisor or Hiring Manager" -> manager
+"Resource or Rec/Offer"        -> resource_raw
+"Type"                          -> type
+"L3 Org"                        -> l3_org
+"VP Org"                        -> vp_org
+"Director Org"                  -> director_org
+"Total Workstream Allocation %" -> total_allocation_pct   (may be missing)
+```
+
+If any are missing, create them with empty strings to keep the pipeline stable.
+
+## Dynamic Workstream Pairing (replace fixed pairs in 3.3)
+
+**Do not assume exactly 10.** Detect **all** workstream/percent pairs at runtime:
+
+```python
+WS_NAME_RE = re.compile(r"^\s*Workstream\s*(\d+)\s*$", re.I)
+PCT_NAME_RE = re.compile(r"^\s*%+\s*(\d+)\s*$", re.I)
+
+def find_workstream_pairs(cols):
+    ws_cols = {}
+    pct_cols = {}
+    for c in cols:
+        m1 = WS_NAME_RE.match(str(c))
+        m2 = PCT_NAME_RE.match(str(c))
+        if m1:
+            ws_cols[int(m1.group(1))] = c
+        elif m2:
+            pct_cols[int(m2.group(1))] = c
+    pairs = []
+    for k in sorted(set(ws_cols) & set(pct_cols)):
+        pairs.append((ws_cols[k], pct_cols[k]))
+    return pairs
+```
+
+Use this in the unpivot step:
+
+```python
+def unpivot_assignments(df: pd.DataFrame) -> pd.DataFrame:
+    pairs = find_workstream_pairs(df.columns)
+    rows = []
+    base_cols = ["resource_raw","type","manager","director_org","vp_org","l3_org"]
+    for ws_col, pct_col in pairs:
+        part = df[base_cols + [ws_col, pct_col]].copy()
+        part = part.rename(columns={ws_col: "workstream", pct_col: "allocation_pct"})
+        # numeric & scaling
+        part["allocation_pct"] = pd.to_numeric(part["allocation_pct"], errors="coerce")
+        # auto-scale if mostly 0–1
+        if part["allocation_pct"].dropna().between(0,1).mean() > 0.85:
+            part["allocation_pct"] = part["allocation_pct"] * 100.0
+        part = part[part["allocation_pct"].fillna(0) > 0]
+        rows.append(part)
+    return pd.concat(rows, ignore_index=True) if rows else pd.DataFrame(columns=["workstream","allocation_pct"])
+```
+
+## People Parsing (unchanged logic, but runs **after** reheader)
+
+```python
+def parse_employee(raw):
+    # "72633: Senior Software Engineer - Jane Doe" or similar
+    if not isinstance(raw, str): return None, None, None
+    parts = raw.split(':', 1)
+    if len(parts) == 2:
+        emp_id = re.sub(r'\D', '', parts[0]) or None
+        title = parts[1].strip()
+        name = title.split(' - ')[-1].strip() if ' - ' in title else title
+        return emp_id, name, title
+    return None, raw.strip(), raw.strip()
+```
+
+## Total Allocation (tolerant to missing “Total Workstream Allocation %”)
+
+```python
+def compute_total_allocation(df):
+    pairs = find_workstream_pairs(df.columns)
+    if not pairs:
+        df["computed_total_pct"] = 0.0
+        df["total_allocation_pct"] = df.get("total_workstream_allocation_pct", pd.Series([None]*len(df)))
+        return df
+
+    comp = None
+    for _, pct_col in pairs:
+        col = pd.to_numeric(df[pct_col], errors="coerce")
+        if col.dropna().between(0,1).mean() > 0.85:  # scale
+            col = col * 100.0
+        comp = col if comp is None else comp.add(col, fill_value=0)
+    df["computed_total_pct"] = comp.fillna(0)
+    canon = "Total Workstream Allocation %"
+    if canon in df.columns:
+        df["total_allocation_pct"] = pd.to_numeric(df[canon], errors="coerce").fillna(df["computed_total_pct"])
+    else:
+        df["total_allocation_pct"] = df["computed_total_pct"]
+    return df
+```
+
+## End-to-end loader (call this instead of the old loader)
+
+```python
+def load_latest_csv(csv_path: str) -> pd.DataFrame:
+    df = read_with_embedded_header(csv_path)
+    # rename canonical business columns to code-friendly names
+    rename_map = {
+        "Supervisor or Hiring Manager": "manager",
+        "Resource or Rec/Offer": "resource_raw",
+        "Type": "type",
+        "L3 Org": "l3_org",
+        "VP Org": "vp_org",
+        "Director Org": "director_org",
+        "Total Workstream Allocation %": "total_workstream_allocation_pct",
+    }
+    for k,v in rename_map.items():
+        if k in df.columns:
+            df = df.rename(columns={k: v})
+        else:
+            df[v] = ""
+
+    # parse resource fields
+    parsed = df["resource_raw"].apply(parse_employee)
+    df[["employee_id","resource_name","resource_title"]] = pd.DataFrame(parsed.tolist(), index=df.index)
+
+    # totals
+    df = compute_total_allocation(df)
+
+    # flags
+    df["overallocated"] = df["total_allocation_pct"] > 100.0
+    df["underallocated"] = df["total_allocation_pct"] < 100.0
+    df["unassigned"] = df["total_allocation_pct"].fillna(0) == 0.0
+    return df
+```
+
+---
+
+## Acceptance Checkpoints (add/adjust)
+
+* ✅ **Header row auto-detected** within the first 10 lines; columns correctly named even when the CSV writes labels as a row “between 1 and 2”.
+* ✅ **Spacer row ignored** if blank.
+* ✅ Dynamic discovery of **all** `Workstream N` ↔ `% N` pairs (N≥1), no hard-coded 10.
+* ✅ Dashboards, org mapping, and exports behave identically across versions of the file that keep this header-in-data pattern.
+
+---
+
+If you want, I can also generate a minimal Streamlit entry (`app.py`) wired to this header logic using your sample file—just say the word and I’ll drop it in ready for Cursor to extend.

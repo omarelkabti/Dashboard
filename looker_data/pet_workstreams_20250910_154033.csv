@@ -1,0 +1,408 @@
+resource_name,workstream,allocation_pct,manager,type,l3_org,vp_org,director_org,fte,is_employee,is_contractor
+"Manager 3, Technical Program Management",SBG PD | PMO - Planning & Financial Operations,100.0,,Reqs,Business Platform Services (Kashi Kakarla),,,1.0,False,False
+"Manager 3, Technical Program Management",SBG PD | AI & Business Platform,100.0,,Reqs,Business Platform Services (Kashi Kakarla),,,1.0,False,False
+yauna_baron@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+janine_buellesbach@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+jayshree_chatterjee@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+rajesh_devadasan@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+omar_elkabti@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+Joshua_Godinez@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Allison Bellah (Inherited)),1.0,True,False
+pierre_gustafsson@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+minar_karia@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+Ronny_Kaynan@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+harshvardhan_kharshingkar@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Allison Bellah (Inherited)),1.0,True,False
+geetha_kuppuswamy@intuit.com,SBG PD | FMS & Expertise,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+judy_nannini@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+geetha_pandurangan@intuit.com,SBG PD | FMS & Expertise,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+saket_sharan@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+Smita_Upadhyay@intuit.com,SBG PD | AI & Business Platform,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+Senior Software Engineer,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Senior Software Engineer,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+conner_dunn@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+nabeel_eledroos@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Manasa_Guli@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+manisha_gupta@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+saikiran_karipe@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+neha_kherde@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+hemasree_koganti@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Naveen_Neelakandan@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+devvrat_nigam@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Asiya_Sayyed@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+priyanka_sharma1@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+John_Trudel@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Ashik_Vetrivelu@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+song_zhang@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+baiastan_zhuzupbekov@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Staff Software Engineer,SBG PD | QB Accountants,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,False,False
+maura_joglekar@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+laura_kirby@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+upendra_kumar@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+daniel_matuszak@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+sueda_nalcaci@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Tina_Nguyen@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+zachary_pfeiffer@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+ruku_roychowdhury@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+jacob_solis@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+kishore_bulusu@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,True,False
+ganesh_dhanavel@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,True,False
+hsin_tsao@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,True,False
+Staff Software Engineer,SBG PD | QB Accountants,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,False,False
+Senior Software Engineer,SBG PD | QB Accountants,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,False,False
+Peter_Chim@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+heng_cui@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+christina_di@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+PradeepKumar_Duvvur@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Abhishek_Ganesan@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Sanya_Jain@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+himanshu_patel@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+arunprassanth_ramaswamybalasubramanian@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+cristian_reynosocastellanos@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+ying_sun@intuit.com,SBG PD | QB Accountants,100.0,,Employee,GBSG - PD (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Charudatta Pable),1.0,True,False
+Lucille_Wang@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+tyron_wulff@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+yutong_yan@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+ROHIT_IJANTKAR@intuit.com,SBG PD | Leadership,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+"Intern, Software Engineering","SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+"Intern, Software Engineering","SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+"Intern, Software Engineering","SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Senior Software Engineer,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+juan_antelo-justiniano@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+radhe_bangad@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+daria_bondarenko@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+daniel_chen1@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+juan_cortes@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+bharat_dumpa@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+johanhumberto_guzmangil@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Gopal_Jayaram@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+emmalee_keatley@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+katie_lin@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+john_mendez@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+maharsh_patel@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+arunkumar_ramanathan@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+amogh_rathnam@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+ruben_ruiz@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+SupreetKaur_Sandhu@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+alexandr_sarandi@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+tova_teichman@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+eric_tsai@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Megha_Agrawal@intuit.com,PDX | Web development operational excellence and dev efficiency,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+moe_alayasreh@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Sailaja_Gaddipati@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+rahul_gupta2@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+anand_mattikopp@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+shubham_agarwal@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Wenhan_Goh@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Kedar_Joglekar@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+lina_lin@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Reggie_Miller@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+valerie_panameno@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Sandeep_Reddy@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+carla_borgesreis@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Neil_Thaker@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Venugopal_Yalla@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+"Senior Staff Software Engineer, Gutha, Ramakrishna",SBG PD | QB Accountants,100.0,,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,False,False
+Ratul_Ghosh@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Vijay_Kulkarni@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Sridhar_Rekula@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+nikhil_shirahatti@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+keerthanreddy_anugula@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+piyush_choudhary@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+zhao_hu@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+yu_liu@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+shahram_mohrehkesh@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+srinivasan_rengarajan@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+sakshi_suman@intuit.com,SBG PD | SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),1.0,True,False
+Senior Software Engineer,SBG PD | Accounting,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,1.0,False,False
+laxmi_agrawal@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Reetendra_Chauhan@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Mihir_Gandhi@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Madhusudhan_Jampala@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+deepa_krishnan1@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+sumit_lamba@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+momina_nofal@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+avi_patel@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Michael_Sharek@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+ketan_soneji@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Naren_Sulur@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+charles_wang@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),1.0,True,False
+Anat_Amar@intuit.com,SBG PD | QB Mobile,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),1.0,True,False
+Cheryl_Aranha@intuit.com,SBG PD | QB Mobile,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),1.0,True,False
+Staff Software Engineer,SBG PD | Accounting,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,False,False
+Rebecca_Andrews@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+kalkidan_gebremedhin@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+austine_lee@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+grace_mao@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+Nick_Rook@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+viral_shingala@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+jade_singh@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+Dinesh_Swaminathan@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+lahari_chepuri@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Elaine_Hwang@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Divyashree_HyderabadPrabhakar@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Neha_Jayaprakash@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+anuradha_krishnaratnam@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Siddharth_Shah@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Marc_Straka@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Lu_Xing@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+maomao_yi@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Staff Technical Program Manager,SBG PD | FMS & Expertise,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,False,False
+yasmin_azam@intuit.com,SBG PD | QBLive,100.0,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,False,False
+petagae_butcher@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,True,False
+Stacie_Ibuki@intuit.com,SBG PD | FMS & Expertise,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,True,False
+anne_loomis@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,True,False
+Venkata_Nuli@intuit.com,SBG PD | FMS & Expertise,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,True,False
+anubhooti_pareek@intuit.com,SBG PD | QB Accountants,100.0,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,False,False
+hiteshi_patel@intuit.com,SBG PD | QB Accountants,100.0,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,False,False
+spriha_singh@intuit.com,SBG PD | FMS & Expertise,100.0,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),1.0,False,False
+Ramdas_Baliga@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+kirati_bhuva@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+rahulsingh_khokhar@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+paula_mejia@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Swathi_sekaran@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+venkatanaveen_pandala@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+krishnakumar_ramesan@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+udayakanth_sripada@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+hibah_wasim@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+qiangqiang_zhang@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Chandana_Allam@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+maithri_chullikana@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+ebony_hargro@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+Rakshith_Hatwar@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+aishwariyaa_indramohan@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+Apurva_Narasimhan@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+karla_ortiz@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+kai_ren@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+mohdehtesham_shareef@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+Mandvi_Singh@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+jiaying_wang@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),1.0,True,False
+Senior Software Engineer,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,False,False
+Software Engineer 2,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,False,False
+anudeepa_dinesh@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+jianfeng_guo@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Saurabh_Jaiswal@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Rishabh_Kashyap@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+yunen_li@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+divyamownika_pasam@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Prasanth_Sridhar@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+jeenal_thakkar@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+sapan_tiwari@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Allison_Bellah@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+alpesh_gaglani@intuit.com,SBG PD | Leadership,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+Nhung_Ho@intuit.com,SBG PD | SBG - AI Core Products (Formerly QB Smart Products),100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+Vidya_Narayanan@intuit.com,SBG PD | Leadership,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+Apparna_Ramadoss@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+nandu_ramani@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+Sushma_Rathnam@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+quyen_thai@intuit.com,SBG PD | Leadership,100.0,,Employee,Business Platform Services (Kashi Kakarla),,,1.0,True,False
+Brandi_Black@intuit.com,SBG PD | Product Specialists,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),1.0,True,False
+Mandy_Ha@intuit.com,SBG PD | Product Specialists,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),1.0,True,False
+Jason_Willoughby@intuit.com,SBG PD | Product Specialists,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),1.0,True,False
+"Manager 3, Software Engineering",SBG PD | QB Accountants,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,False,False
+"Staff Software Engineer, Tejawsy, Lavanya",SBG PD | QB Accountants,100.0,,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,False,False
+"Senior Staff Software Engineer, Bokor, Brian",SBG PD | QB Accountants,100.0,,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,False,False
+"Staff Software Engineer, Sheikh, Abdul Haleem",SBG PD | QB Accountants,100.0,,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,1.0,False,False
+karthik_akinepalli@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Anjali_Basavaraj@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Aradhana_Duppala@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+suman_dutta1@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+felipe_lopes@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+SatishKumar_Obbu@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+charudatta_pable@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Tyler_Riding@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+flor_aquinoortiz@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Josh_Burson@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+abhishek_chowdhury@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Abhinandan_Jayanth@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Nikita_Kale@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+ankita_mishra@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+ankit_nagpal@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+sean_pine@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Dipika_Ramaswamy@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+tejas_rao@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Cindy_Tao@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+carla_vidales@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+ruyang_wang@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),1.0,True,False
+Principal Technical Program Manager,SBG PD | Small Business Ecosystem,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,False,False
+John_Norman@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+Michael_Patterson3@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+anshu_rathore@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+muthu_srinivasan@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+vimala_susaiarul@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+deepti_varshney@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+prasanna_veeraraghavan@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+johnny_yu1@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),1.0,True,False
+charles_bell1@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Ranadeep_Bhuyan@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+michael_delvalle@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+maulik_desai1@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+emily_ekaireb@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+nicholas_fenton@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+jeffrey_homere@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+dionne_hutson@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+molly_li@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+al_manrique@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+charles_shen@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Kathy_Paulsen@intuit.com,SBG PD | Product Specialists,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,True,False
+Sujay_Sundaram@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,True,False
+tanya_vlahovic@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,True,False
+aditya_alluri@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+claire_dowling@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+yafei_han@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Adrian_Kim@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+jason_lin@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+frank_m@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+qinyao_mou@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+nikhil_pangarkar@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Arpit_Patel@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Rohan_Patel@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+anhdung_pham@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+cassandra_pizarro@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+priya_rao@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+manoj_ravindran@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+faheem_samol@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+kharim_ames@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+aayush_dani@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+yanjin_deng@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+bhumika_jain@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+matthew_jaslove@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+kevin_mejia@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+justin_moroz@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+eric_ngeo@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+deep_patel2@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+saiprasanna_ranganathan@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+rinkal_shah@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+arthur_yip@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+bruce_zha@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+lichao_zhou@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Staff Software Engineer,SBG PD | QBLive,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,False,False
+manasa_budamagunta@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+sahitya_chalamchala@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+sinchana_demlapurarudrappa@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+saishree_jayakumar@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+apoorv_pachori@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+mani_packianathan@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+anusha_podupuganti@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+rajiv_ranjan@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+darsh_sanghavi@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Todd_Tang@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Quy_Tran@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Balarka_Velidi@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+zhuoying_yi@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Senior Software Engineer,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+solomon_antoine@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+raymond_broome@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+dave_charnuska@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+kristin_diep@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+navyagopal_garapati@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Shuweb_Mubeen@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+jay_pandya@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+olga_romanova@intuit.com,SBG PD | QBPlatform:  API/modernization,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+arpit_srivastava@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+amir_tawfik@intuit.com,SBG PD | Small Business Ecosystem,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+miguel_tejada@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+ryan_vanbelkum@intuit.com,"SBG PD | Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+"Intern, Software Engineering",SBG PD | Indirect and Direct Taxes,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra),1.0,False,False
+Dustin_Callaway@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+aarthi_gunda@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Matthew_Haldeman@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+brad_lee@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+ankush_mittal@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+steve_nacache@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+bonnie_pan@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+john_sartore@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+vishalaxi_tandel@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+andrew_thanka@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),1.0,True,False
+Senior Staff Software Engineer,SBG PD | QBO - International,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,False,False
+Gaurav_Budjade@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Tina_Chang@intuit.com,SBG PD | QBO - International,100.0,,CW,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,False,False
+fan_gabbett@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+sushant_joshi@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+ankit_katiyar@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Susmitha_Kodamarthi@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Staff Software Engineer,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Senior Software Engineer,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Software Engineer 2,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Senior Software Engineer,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Senior Software Engineer,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Software Engineer 2,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Software Engineer 1,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Software Engineer 1,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+Software Engineer 2,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,False,False
+AravindSingh_Bisht@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Jordan_Burgess@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Rupehra_Chouhan@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+sugandha_duhan@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+pooja_gond@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+gerardo_gutierrez@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+apurv_kamalapuri@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+kiranmayee_kesana@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+sindhujaguddappa_naik@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+sparsha_ramakrishna@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+sahana_r@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Ethan_Schwartz2@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+jasmeen_sran@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+roy_vannakittikun@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+Reshma_Zacharia@intuit.com,"SBG PD | Customer Growth - Web, Commercialization, and Trials",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),1.0,True,False
+marcela_chaverri@intuit.com,SBG PD | Leadership,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+dunlin_deng@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,1.0,True,False
+Erica_Hang@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),1.0,True,False
+beatrice_hendra@intuit.com,SBG PD | Indirect and Direct Taxes,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,1.0,True,False
+Mike_Tai@intuit.com,SBG PD | Accounting,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,1.0,True,False
+Staff Software Engineer,SBG PD | QBO - International,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,False,False
+Liam_Amy@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+callum_atwal@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Duncan_Brown@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+bethany_hodd@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Aleks_Ivanov@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+saumya_jaiswal@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Jyoti_Jaiswal@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+tigs_knowles@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+peter_lightbody@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Rachana_Mamillapalli@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+alex_musgrove@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+david_robson@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+marinela_roca@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+sara_ruini@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+jaymin_shah@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Ankush_Tayal@intuit.com,SBG PD | QBO - International,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),1.0,True,False
+Senior Software Engineer,SBG PD | QBLive,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,False,False
+Senior Software Engineer,SBG PD | QBLive,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,False,False
+ravali_bojja@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Marco_Cerna@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+athan_chan@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+guo_chen@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Ramesh_Chockalingam@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+anastasia_germanova@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Sayali_Gole@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Su_Pu@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+joseph_roddy@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+MEKHA_VARGHESE@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+wenfei_wang@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Bindu_Yerramada@intuit.com,SBG PD | QBLive,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),1.0,True,False
+Principal Software Engineer,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,False,False
+"Manager 2, Software Engineering","SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,1.0,False,False
+shekhar_banerjee@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+karthick_gunasekaran@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+rushabh_shah@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+Pawan_Singh@intuit.com,"SBG PD | 3P Integrations, App Marketplace & Monetization",100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),1.0,True,False
+AMIT_SETHIYA@intuit.com,"SBG PD | CoreApp Foundations, Tooling & Patterns",70.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.7,True,False
+Staff Software Engineer,SBG PD | QB Accountants,100.0,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,False,False
+Malabika_Biswas@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+weimin_li@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+emily_margis@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Avinash_Padmanabhan@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Neha_Patil@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+Kevin_Xu@intuit.com,SBG PD | QB Accountants,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),1.0,True,False
+janine_buellesbach@intuit.com,SBG PD | PMO - Planning & Financial Operations,100.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,1.0,True,False
+Chandana_Allam@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+maithri_chullikana@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+ebony_hargro@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+Rakshith_Hatwar@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+aishwariyaa_indramohan@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+Apurva_Narasimhan@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+karla_ortiz@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+kai_ren@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+mohdehtesham_shareef@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+Mandvi_Singh@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+jiaying_wang@intuit.com,GBSG E2E | Accounting/Commerce,0.1,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),0.001,True,False
+AMIT_SETHIYA@intuit.com,SBG PD | QBPlatform:  API/modernization,30.0,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.3,True,False

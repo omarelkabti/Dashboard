@@ -1,0 +1,359 @@
+Awesome — I looked at your CSV and shaped a requirements pack that Cursor can turn into a working, **auto-updating org + allocation dashboard**.
+
+Below is everything Cursor needs: clear goals, data contract (with your actual column names), ETL rules, UI spec, edge cases, and acceptance criteria. You can paste this into Cursor as the project brief and let it scaffold the app.
+
+---
+
+# Project Brief: PET Resource Allocation Dashboard
+
+## 1) Goal
+
+Build a dashboard that:
+
+* **Auto-updates** whenever a new “PET Resource Allocation” CSV is dropped into a watched folder.
+* **Maps org hierarchy** for each Resource (Manager → Director → VP → L3).
+* **Shows workstream assignments & allocation %** per Resource.
+* Supports **filtering, search, and exports**.
+* Flags **under-/over-allocation** and **unassigned** resources.
+
+Target users: PET leadership, managers, resource planners.
+
+Preferred stack (pick one):
+
+* **Option A (fastest path):** Python + Pandas + **Streamlit** (single repo, easy to maintain).
+* **Option B (more control):** **FastAPI** backend + React (Vite) frontend; Pandas/DuckDB for ETL.
+
+Continuous use: Users will pull the **same report repeatedly**; the dashboard must ingest the newest file automatically.
+
+---
+
+## 2) Input Data Contract (observed from the current file)
+
+Source file example: `PET Resource Allocation (9).csv`
+Rows 0–1 contain headings/empty markers; the true data begins after that.
+
+### Exact columns present (43 total)
+
+```
+['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4',
+ 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Workstream 1', '% 1',
+ 'Unnamed: 10', 'Workstream 2', '% 2', 'Unnamed: 13', 'Workstream 3',
+ '% 3', 'Unnamed: 16', 'Workstream 4', '% 4', 'Unnamed: 19',
+ 'Workstream 5', '% 5', 'Unnamed: 22', 'Workstream 6', '% 6',
+ 'Unnamed: 25', 'Workstream 7', '% 7', 'Unnamed: 28', 'Workstream 8',
+ '% 8', 'Unnamed: 31', 'Workstream 9', '% 9', 'Unnamed: 34',
+ 'Workstream 10', '% 10', 'Unnamed: 37', 'Sub-Capabilities 1',
+ 'Sub-Capabilities 2', 'Sub-Capabilities 3', 'Sub-Capabilities 4',
+ 'Sub-Capabilities 5', 'City Map Capability 1', 'City Map Capability 1.1',
+ 'City Map Capability 1.2', 'City Map Capability 2', 'City Map Capability 2.1',
+ 'City Map Capability 2.2', 'City Map Capability 3', 'City Map Capability 3.1',
+ 'City Map Capability 3.2', 'City Map Capability 4', 'City Map Capability 4.1',
+ 'City Map Capability 4.2', 'City Map Capability 5', 'City Map Capability 5.1',
+ 'City Map Capability 5.2']
+```
+
+> The first seven “Unnamed” headers are **real fields** based on row 0’s labels:
+
+* `Unnamed: 0` → **Supervisor or Hiring Manager**
+* `Unnamed: 1` → **Resource or Rec/Offer** (e.g., “72633: Senior Software Engineer”)
+* `Unnamed: 2` → **Type** (e.g., Employee/Contractor/Reqs)
+* `Unnamed: 3` → **L3 Org**
+* `Unnamed: 4` → **VP Org**
+* `Unnamed: 5` → **Director Org**
+* `Unnamed: 6` → **Total Workstream Allocation %**
+
+### Data normalization assumptions
+
+* The **real header row is row 0**. Skip blank row(s) that follow.
+* There are up to **10 workstream columns**, each paired with a **%** column.
+* “Resource or Rec/Offer” can contain an ID and title in one string; we’ll parse ID if present.
+
+---
+
+## 3) ETL Requirements
+
+### 3.1 Ingestion
+
+* Watch a folder (e.g., `data/`) for files matching `PET Resource Allocation*.csv`.
+* On startup and every N minutes (configurable), load the **latest modified** matching file.
+* Use robust CSV parsing:
+
+  * Treat row **0** as the semantic header row (source labels).
+  * Rename the first 7 columns as above.
+  * Skip fully empty rows.
+  * Trim whitespace on all string fields.
+
+### 3.2 Cleaning & Standardization
+
+* Coerce the following columns to strings: Manager, Resource, L3/VP/Director Org, Workstream names.
+* Coerce `%` columns to numeric; invalid → NaN.
+* Standardize `%` to **0–100 scale** (if decimals 0–1 appear, multiply by 100).
+* Normalize “Type” values (map common variants to canonical: `Employee`, `Contractor`, `Req`, `Open Role`).
+* Parse **Employee ID** from “Resource or Rec/Offer” when present (e.g., split by `:` → `employee_id`, `resource_title`).
+* Compute `total_allocation_pct` from `% 1..% 10` when “Total Workstream Allocation %” is missing; otherwise cross-validate.
+
+### 3.3 Unpivoting Workstreams
+
+Transform wide workstream columns into **long/tidy** rows:
+
+Output table `assignments`:
+
+| employee\_id | resource\_name | type     | manager    | director\_org | vp\_org | l3\_org | workstream        | allocation\_pct |
+| ------------ | -------------- | -------- | ---------- | ------------- | ------- | ------- | ----------------- | --------------- |
+| 72633        | Jane Doe       | Employee | John Smith | …             | …       | …       | “Platform X”      | 40              |
+| 72633        | Jane Doe       | Employee | John Smith | …             | …       | …       | “Experimentation” | 60              |
+
+Rules:
+
+* For each `Workstream N`, if the paired `% N` is null or 0, drop the row.
+* `resource_name` := “Resource or Rec/Offer” (title stripped of ID if present).
+* Keep **Sub-Capabilities** and **City Map Capabilities** in a separate dimension table if needed for filters/tags.
+
+### 3.4 Derived Metrics
+
+* `overallocated` = `total_allocation_pct` > 100
+* `underallocated` = `total_allocation_pct` < 100
+* `unassigned` = all `% N` null or 0
+* Aggregates:
+
+  * **Headcount by org level** (Manager, Director Org, VP Org, L3 Org)
+  * **Allocated FTE by workstream** (sum of allocation\_pct / 100)
+  * **Open roles** count (Type == Req/Open Role)
+
+### 3.5 Data Model (recommended)
+
+* `people` (one row per resource/req)
+
+  * `employee_id`, `resource_name`, `type`, `manager`, `director_org`, `vp_org`, `l3_org`, `total_allocation_pct`, `flags` (under/over/unassigned)
+* `assignments` (many per person)
+
+  * `employee_id`, `workstream`, `allocation_pct`
+* `capabilities` (optional tagging)
+
+  * `employee_id`, `sub_cap_1..5`, `city_map_*` flattened into key/value tags
+
+Persist in-memory (Streamlit) or DuckDB `data/pet_alloc.duckdb`.
+
+---
+
+## 4) Frontend / UX Requirements
+
+### 4.1 Global
+
+* Top bar: **File status** (filename, last modified timestamp), **Refresh** button, and **CSV upload** as a fallback.
+* **Filters** (sticky):
+
+  * Type (Employee, Contractor, Req/Open Role)
+  * Manager (multiselect)
+  * Director Org / VP Org / L3 Org (hierarchical)
+  * Workstream (multiselect)
+  * Allocation status: Under <100, Exactly 100, Over >100, Unassigned
+  * Search box (by name, ID, title)
+
+### 4.2 KPI Tiles
+
+* Total Resources (count)
+* Open Roles (count)
+* Total FTE by selection (Σ allocation/100)
+* Overallocated (# and %)
+* Unassigned (#)
+
+### 4.3 Org Mapping View (primary)
+
+* **Table + Tree toggle**:
+
+  * **Table**: columns → Resource, Type, Manager, Director Org, VP Org, L3 Org, Total Allocation %, Status
+  * **Tree**: collapsible hierarchy L3 → VP → Director → Manager → Resource (show badges for #workstreams and total %)
+* Row click opens **Resource Drawer**:
+
+  * Workstream allocations list (name + %)
+  * Sub-Capabilities / City Map tags (chips)
+  * Copy-to-clipboard: Manager chain; Export this resource (CSV)
+
+### 4.4 Workstream View
+
+* Bar chart: **FTE by Workstream** (respect filters)
+* Table: Workstream → FTE, Headcount, Over/Under counts
+* Drill-in: open list of resources assigned to that workstream with their %.
+
+### 4.5 Data Export
+
+* Button to **Export current view** (CSV).
+* Button to **Export assignments** (tidy long format).
+
+### 4.6 Empty / Error States
+
+* If no file detected: show upload prompt and documentation on where to place the file.
+* If schema mismatch: show non-blocking banner with details; attempt best-effort mapping.
+
+---
+
+## 5) Auto-Update Behavior
+
+* Poll the `data/` folder every **5 minutes** (configurable) for the newest `PET Resource Allocation*.csv`.
+* When a newer file timestamp is found:
+
+  * Re-ingest and recompute.
+  * Update the “last updated” timestamp in the UI.
+* Users can also **Upload** a file manually; the app will save it to `data/` and treat it as the newest.
+* Keep the **latest 5** files for rollback; expose a small dropdown to view or revert to a prior file.
+
+---
+
+## 6) Validation & Edge Cases
+
+* If “Total Workstream Allocation %” is present, it must equal Σ `% 1..10` within tolerance (±1). Else flag `allocation_mismatch`.
+* Accept missing Manager/Director/VP/L3; display “(unknown)” and allow filtering by unknowns.
+* If “Resource or Rec/Offer” lacks ID, set `employee_id = None` and still display.
+* Workstream names can be blank; blank + nonzero % → flag `invalid_workstream`.
+* All percentages normalized to 0–100; drop negative or >300 as invalid.
+* Handle duplicate resources (same ID) by merging rows; if no ID, merge on normalized name + type + manager.
+
+---
+
+## 7) Non-Functional
+
+* Performance target: 1k–10k rows load < 2s; filters < 300ms perceived.
+* Logging: ETL summary (rows read, dropped, warnings).
+* Privacy: no external calls; all local processing.
+* Tested on macOS + Windows.
+
+---
+
+## 8) Suggested Folder Structure
+
+```
+pet-dashboard/
+  app.py                      # Streamlit entry (or main.py for FastAPI)
+  src/
+    etl.py                    # ingestion, clean, unpivot, metrics
+    schema.py                 # column maps, validators
+    store.py                  # file watcher, latest-file resolver
+    views/
+      org_view.py             # org mapping table/tree + drawer
+      ws_view.py              # workstream charts/tables
+    components/
+      filters.py              # filter bar
+      kpis.py                 # KPI tiles
+  data/                       # watched folder for CSVs (gitignored)
+  tests/
+    test_etl.py
+    samples/
+      PET Resource Allocation (sample).csv
+  requirements.txt
+  README.md
+```
+
+---
+
+## 9) Implementation Hints for Cursor (pseudocode)
+
+### ETL (core)
+
+```python
+# etl.py
+import pandas as pd
+import re
+
+HEADER_MAP = {
+  'Unnamed: 0': 'manager',
+  'Unnamed: 1': 'resource_raw',
+  'Unnamed: 2': 'type',
+  'Unnamed: 3': 'l3_org',
+  'Unnamed: 4': 'vp_org',
+  'Unnamed: 5': 'director_org',
+  'Unnamed: 6': 'total_allocation_pct'
+}
+
+WORKSTREAM_PAIRS = [(f'Workstream {i}', f'% {i}') for i in range(1, 11)]
+
+def parse_employee(raw):
+    if not isinstance(raw, str): return None, None, None
+    parts = raw.split(':', 1)
+    if len(parts) == 2:
+        emp_id = re.sub(r'\D', '', parts[0]) or None
+        title = parts[1].strip()
+        name = title.split(' - ')[0] if ' - ' in title else title
+        return emp_id, name, title
+    return None, raw.strip(), raw.strip()
+
+def load_latest_csv(path):
+    df = pd.read_csv(path)
+    # rename first 7 columns
+    df = df.rename(columns=HEADER_MAP)
+    # drop leading blank rows
+    df = df[df[['manager','resource_raw','type','l3_org','vp_org','director_org','total_allocation_pct']].notna().any(axis=1)]
+    # parse people
+    out = df.copy()
+    out[['employee_id','resource_name','resource_title']] = out['resource_raw'].apply(lambda x: pd.Series(parse_employee(x)))
+    # normalize % columns
+    for _, pct_col in WORKSTREAM_PAIRS:
+        if pct_col in out:
+            out[pct_col] = pd.to_numeric(out[pct_col], errors='coerce')
+            # scale if needed
+            if out[pct_col].dropna().between(0,1).mean() > 0.9:
+                out[pct_col] = out[pct_col]*100
+    # compute total if missing
+    if 'total_allocation_pct' in out:
+        comp = sum(out[p] for _, p in WORKSTREAM_PAIRS if p in out)
+        out['computed_total_pct'] = comp
+        out['total_allocation_pct'] = out['total_allocation_pct'].fillna(out['computed_total_pct'])
+    return out
+
+def unpivot_assignments(df):
+    rows = []
+    for ws_col, pct_col in WORKSTREAM_PAIRS:
+        if ws_col in df and pct_col in df:
+            part = df[['employee_id','resource_name','type','manager','director_org','vp_org','l3_org', ws_col, pct_col]].copy()
+            part = part.rename(columns={ws_col: 'workstream', pct_col: 'allocation_pct'})
+            part = part[part['allocation_pct'].fillna(0) > 0]
+            rows.append(part)
+    return pd.concat(rows, ignore_index=True) if rows else pd.DataFrame(columns=['employee_id','workstream','allocation_pct'])
+```
+
+### Streamlit wiring (Option A)
+
+```python
+# app.py
+import streamlit as st
+from src.etl import load_latest_csv, unpivot_assignments
+
+st.set_page_config(page_title="PET Resource Allocation", layout="wide")
+
+# file status + manual upload
+# filters sidebar
+# KPI tiles
+# Org mapping view (table/tree)
+# Workstream view (chart + table)
+# Export buttons
+```
+
+### File watching (simple polling)
+
+* On each app run/refresh, pick the **latest** file in `data/` matching the pattern.
+* Add a **“Refresh”** button in the UI; also set `st.experimental_rerun()` after upload.
+
+---
+
+## 10) Acceptance Criteria
+
+1. **Auto-update:** Dropping a newer `PET Resource Allocation*.csv` in `data/` updates the dashboard within 5 minutes or on manual refresh.
+2. **Org mapping:** For any selected L3/VP/Director/Manager, the dashboard shows all Resources and their chain (Manager → Director → VP → L3).
+3. **Assignments view:** Each Resource displays all Workstreams with allocation %; aggregates show **FTE by Workstream**.
+4. **Validation flags:** Overallocated, underallocated, unassigned, and allocation mismatches are clearly surfaced and filterable.
+5. **Search & filters:** Search by name/ID/title; filter by Type, Org levels, Workstream, and allocation status.
+6. **Exports:** Users can export (a) current view and (b) tidy `assignments` as CSV.
+7. **Schema resilience:** Minor column order changes or blank rows do not break ingestion.
+
+---
+
+## 11) Nice-to-Haves (if time allows)
+
+* Save filter presets per user (local storage).
+* Org tree mini-map with counts.
+* Cached performance using DuckDB.
+* Unit tests for ETL (parsing, % normalization, mismatch detection).
+
+---
+
+If you want, I can also drop a **minimal Streamlit starter** wired to your exact columns so Cursor can expand from there.

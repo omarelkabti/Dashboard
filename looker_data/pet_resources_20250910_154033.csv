@@ -1,0 +1,856 @@
+resource_name,manager,type,l3_org,vp_org,director_org,total_allocation_pct,overallocated,underallocated,unassigned,allocation_status,fte,is_employee,is_contractor
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+Principal Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),,,0.0,False,False,True,Unassigned,0.0,False,False
+"Software Engineer 2, Somani, Saurav",,Offers,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+,Allison_Bellah@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Manager 3, Technical Program Management",,Reqs,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,False,False
+"Manager 3, Technical Program Management",,Reqs,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,False,False
+yauna_baron@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+janine_buellesbach@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,200.0,True,False,False,Overallocated,2.0,True,False
+jayshree_chatterjee@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+rajesh_devadasan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+omar_elkabti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+Joshua_Godinez@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Allison Bellah (Inherited)),100.0,False,False,False,Properly Allocated,1.0,True,False
+pierre_gustafsson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+minar_karia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+Ronny_Kaynan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+harshvardhan_kharshingkar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Allison Bellah (Inherited)),100.0,False,False,False,Properly Allocated,1.0,True,False
+geetha_kuppuswamy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+judy_nannini@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+geetha_pandurangan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+saket_sharan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+Smita_Upadhyay@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,True,False
+,AMIT_SETHIYA@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+conner_dunn@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+nabeel_eledroos@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Manasa_Guli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+manisha_gupta@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+saikiran_karipe@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+neha_kherde@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+hemasree_koganti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Naveen_Neelakandan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+devvrat_nigam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Asiya_Sayyed@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+priyanka_sharma1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+John_Trudel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Ashik_Vetrivelu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+song_zhang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+baiastan_zhuzupbekov@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Anat_Amar@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+rajiv_deshmukh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Krithika_Sairamesh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Andrew_Schrage@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+,Anjali_Basavaraj@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,False,False
+maura_joglekar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+laura_kirby@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+upendra_kumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+daniel_matuszak@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+sueda_nalcaci@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Tina_Nguyen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+zachary_pfeiffer@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+ruku_roychowdhury@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+jacob_solis@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Ankur_Agrawal2@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+salil_wadnerkar@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Tushar Thakker),,0.0,False,False,True,Unassigned,0.0,True,False
+,Apparna_Ramadoss@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Specialist,,Reqs,Business Platform Services (Kashi Kakarla),,,0.0,False,False,True,Unassigned,0.0,False,False
+kishore_bulusu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,True,False
+ganesh_dhanavel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,True,False
+hsin_tsao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,True,False
+,Aradhana_Duppala@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,False,False
+nicolas_berrizbeitia@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Lakshmi Balakrishna),,0.0,False,False,True,Unassigned,0.0,False,False
+Peter_Chim@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+heng_cui@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+christina_di@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+PradeepKumar_Duvvur@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Abhishek_Ganesan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Sanya_Jain@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+himanshu_patel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+arunprassanth_ramaswamybalasubramanian@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+cristian_reynosocastellanos@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+ying_sun@intuit.com,,Employee,GBSG - PD (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Charudatta Pable),100.0,False,False,False,Properly Allocated,1.0,True,False
+Lucille_Wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+tyron_wulff@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+yutong_yan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+,ArunKumar_K@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Sumit_Shekhar@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Saurabh Saxena),,0.0,False,False,True,Unassigned,0.0,True,False
+devashish_tak@intuit.com,,Employee,GBSG - PD (Kashi Kakarla),Organization (Nidhi Gopal),Organization (Syed Iqbal Nasim),0.0,False,False,True,Unassigned,0.0,True,False
+,ash_nayak@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+ROHIT_IJANTKAR@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+praveen_mareedu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+bashir_mohammad@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+rohini_prasad@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+,Ashish_Agarwal@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+akshit_agarwal1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+abhineet_arora@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+nishu_bansal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+drishti_beohar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+malvika_bhalla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+sujal_goel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+nishu_gurung@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+Dipak_Kumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+rashmi_kumari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+karthik_narayan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+nikhilkumar_mishra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+kartikeya_munghate@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+sushmitha_p@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+risheepriya_shanmugam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+shantanu_shubham@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+jayashri_venkatachalam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+,badrish_agarwal@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+karthikeyan_thirumoorthy@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Saurabh Saxena),,0.0,False,False,True,Unassigned,0.0,False,False
+,bashir_mohammad@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+juan_antelo-justiniano@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+radhe_bangad@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+daria_bondarenko@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+daniel_chen1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+juan_cortes@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+bharat_dumpa@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+johanhumberto_guzmangil@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Gopal_Jayaram@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+emmalee_keatley@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+katie_lin@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+john_mendez@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+maharsh_patel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+arunkumar_ramanathan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+amogh_rathnam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+ruben_ruiz@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+SupreetKaur_Sandhu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+alexandr_sarandi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+tova_teichman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+eric_tsai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+,beatrice_hendra@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Megha_Agrawal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+moe_alayasreh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+Sailaja_Gaddipati@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+rahul_gupta2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+anand_mattikopp@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Byron_Tang@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+narendra_babu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+juhi_chandalia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+Heather_Simpson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+,charles_wang@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+shubham_agarwal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Wenhan_Goh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Kedar_Joglekar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+lina_lin@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Reggie_Miller@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+valerie_panameno@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Sandeep_Reddy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+carla_borgesreis@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Neil_Thaker@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Venugopal_Yalla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+,charudatta_pable@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Senior Staff Software Engineer, Gutha, Ramakrishna",,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,False,False
+Ratul_Ghosh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Vijay_Kulkarni@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Sridhar_Rekula@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+nikhil_shirahatti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Craig_Olague@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+vladimir_krasikov@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Krish Garimella),,0.0,False,False,True,Unassigned,0.0,True,False
+,Divya_Beeram@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+keerthanreddy_anugula@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+piyush_choudhary@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+zhao_hu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+yu_liu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+shahram_mohrehkesh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+srinivasan_rengarajan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+sakshi_suman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Donovan_Makund@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+celeste_desantiago@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+,dunlin_deng@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,100.0,False,False,False,Properly Allocated,1.0,False,False
+laxmi_agrawal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Reetendra_Chauhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Mihir_Gandhi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Madhusudhan_Jampala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+deepa_krishnan1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+sumit_lamba@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+momina_nofal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+avi_patel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Michael_Sharek@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+ketan_soneji@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+Naren_Sulur@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+charles_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Dunlin Deng),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Easwar_Samy@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Anat_Amar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),100.0,False,False,False,Properly Allocated,1.0,True,False
+Cheryl_Aranha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Erica_Hang@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,False,False
+Rebecca_Andrews@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+kalkidan_gebremedhin@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+austine_lee@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+grace_mao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+Nick_Rook@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+viral_shingala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+jade_singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+Dinesh_Swaminathan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Faizahmad_Chaudhari@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+"Software Engineer 2, Singla, Bhavit",,Offers,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+amritansh_@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+namita_arya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+sreyans_bothra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+debasmita_das@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+prosoon_goswami@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+himani_jain@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+harshpreet_singhjohar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+nishant_mishra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+palak_mundra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+aakash_pandit@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+kushagra_pathak@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+abishekram_r@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+SriHarsha_S@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+abhishek_sharma7@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+harpreet_singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+shimpeealay_uday@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+sharlet_wilson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+,Gaurav_Budjade@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+lahari_chepuri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Elaine_Hwang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Divyashree_HyderabadPrabhakar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Neha_Jayaprakash@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+anuradha_krishnaratnam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Siddharth_Shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Marc_Straka@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Lu_Xing@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+maomao_yi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+,geetha_kuppuswamy@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Technical Program Manager,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,False,False
+yasmin_azam@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,False,False
+petagae_butcher@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,True,False
+Stacie_Ibuki@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,True,False
+anne_loomis@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,True,False
+Venkata_Nuli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,True,False
+anubhooti_pareek@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,False,False
+hiteshi_patel@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,False,False
+spriha_singh@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Geetha Kuppuswamy),100.0,False,False,False,Properly Allocated,1.0,False,False
+,Heather_Simpson@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Taylor_Cressy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+maria_kissa@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+xiangru_li@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+Jocelyn_Lu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+vatsal_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+tallal_usman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+yan_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+eric_xiang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+yufei_zhao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+,hsin_tsao@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Ramdas_Baliga@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+kirati_bhuva@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+rahulsingh_khokhar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+paula_mejia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+kumar_nagaraj@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),0.0,False,False,True,Unassigned,0.0,True,False
+Swathi_sekaran@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+venkatanaveen_pandala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+krishnakumar_ramesan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+udayakanth_sripada@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+hibah_wasim@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+qiangqiang_zhang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Janaki_Nagendra@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+pallavi_angraje@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+saurav_kumar2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+lokesh_kumar2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+ritika_lawankar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+poonam_mishra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+chandarasekaran_m@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+vinuthna_n@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+premavatipetanyapati_pvshravya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+akash_rai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+dhanujapani_sd@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+satish_shivlingsasate@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+deepaank_satyamsinha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Janaki Nagendra),0.0,False,False,True,Unassigned,0.0,True,False
+,John_Norman@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+kirankumar_balla1@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),0.0,False,False,True,Unassigned,0.0,False,False
+,juhi_chandalia@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+hector_carrillo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+mauricio_flores@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+shreyavenkatesh_prabhu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+zekun_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Byron Tang),0.0,False,False,True,Unassigned,0.0,True,False
+,jyothi_potluri@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Chandana_Allam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+maithri_chullikana@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+ebony_hargro@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+Rakshith_Hatwar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+aishwariyaa_indramohan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+Apurva_Narasimhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+karla_ortiz@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+kai_ren@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+mohdehtesham_shareef@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+Mandvi_Singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+jiaying_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Jyothi Potluri),100.1,True,False,False,Overallocated,1.001,True,False
+,karthick_gunasekaran@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,False,False
+anudeepa_dinesh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+jianfeng_guo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Saurabh_Jaiswal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Rishabh_Kashyap@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+yunen_li@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+divyamownika_pasam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Prasanth_Sridhar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+jeenal_thakkar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+sapan_tiwari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Kashi_Kakarla@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Allison_Bellah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+alpesh_gaglani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+Nhung_Ho@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+Vidya_Narayanan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+Apparna_Ramadoss@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+nandu_ramani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+Sushma_Rathnam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+quyen_thai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),,,100.0,False,False,False,Properly Allocated,1.0,True,False
+,Kathy_Paulsen@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Brandi_Black@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),100.0,False,False,False,Properly Allocated,1.0,True,False
+Mandy_Ha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),100.0,False,False,False,Properly Allocated,1.0,True,False
+Jason_Willoughby@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Kathy Paulsen),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Khon_Chau@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+savitha_chalapathy@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+,kishore_bulusu@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Manager 3, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,False,False
+"Staff Software Engineer, Tejawsy, Lavanya",,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,False,False
+"Senior Staff Software Engineer, Bokor, Brian",,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,False,False
+"Staff Software Engineer, Sheikh, Abdul Haleem",,Offers,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),,100.0,False,False,False,Properly Allocated,1.0,False,False
+karthik_akinepalli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Anjali_Basavaraj@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Aradhana_Duppala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+suman_dutta1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+felipe_lopes@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+SatishKumar_Obbu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+charudatta_pable@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Tyler_Riding@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Krithika_Sairamesh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Software Engineer 2, Shah, Srinath",,Offers,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,False,False
+Emma_Anderson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Dan_Chetian@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Benjamin_DiGregorio@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Katie_Liu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Rui_Mao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Kevin_Nguyen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Nithya_Pari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Adriano_Rocha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+jeremiah_ruidera@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+caleb_stultz@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+praveen_vedanti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+ValliVidhya_Venkatesan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Eric_Wong@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Yicheng_Zheng@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Cassandra_Zuria@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+,Mandar_Kale@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+"Co-Op, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+"Co-Op, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+"Co-Op, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Naveen_Acharya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+siddhant_agarwal1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Faizahmad_Chaudhari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Satish_Geddam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Harsha_Navada@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Shirish_Peshwe@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+,ManishKumar_Singh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+"Co-Op, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+"Software Engineer 2, Kanungo, Ashee",,Offers,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Ashish_Agarwal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+anshika_agrawal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+mayank_agrawal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+rizusher_habib@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+shasank_kakaraparthi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+sadiya_khan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+Shubham_Kumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+Vijeth_Patil@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+tanmayeepramodgiri_gosavi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+sarvesh_samvedi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+KrishanMohan_Sharma@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+abhishek_siddharth@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+somyasurendra_singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+smaran_singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+Manikanta_Sreekakula@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+pradhan_vadirajboccsa@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+,Mike_Tai@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+flor_aquinoortiz@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+Josh_Burson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+abhishek_chowdhury@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+Abhinandan_Jayanth@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+Nikita_Kale@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+ankita_mishra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+ankit_nagpal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+sean_pine@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+Dipika_Ramaswamy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+tejas_rao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+Cindy_Tao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+carla_vidales@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+ruyang_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Mike Tai),100.0,False,False,False,Properly Allocated,1.0,True,False
+,minar_karia@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Principal Technical Program Manager,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),,100.0,False,False,False,Properly Allocated,1.0,False,False
+John_Norman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+Michael_Patterson3@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+anshu_rathore@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+muthu_srinivasan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+vimala_susaiarul@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+deepti_varshney@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+prasanna_veeraraghavan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+johnny_yu1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Minar Karia),100.0,False,False,False,Properly Allocated,1.0,True,False
+,moe_alayasreh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+charles_bell1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+Ranadeep_Bhuyan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+michael_delvalle@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+maulik_desai1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+emily_ekaireb@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+nicholas_fenton@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+jeffrey_homere@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+dionne_hutson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+molly_li@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+al_manrique@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+charles_shen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+,nandu_ramani@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Principal Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),,,0.0,False,False,True,Unassigned,0.0,False,False
+Raviteja_Barlanka@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Tarun_Dhawan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Narayanan_Gopalakrishnan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Varun_Gupta@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Rajesh_Kadle@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Mandar_Kale@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Hema_Maarimuthu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Janaki_Nagendra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Kathy_Paulsen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,True,False
+jasmine_rodis@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Easwar_Samy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+steve_saxon@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Pushparaj_Shanmugam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+ManishKumar_Singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,True,False
+Sujay_Sundaram@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,True,False
+tanya_vlahovic@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,True,False
+,naveen_jayaraman@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+claudia_bergeron@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+joe_choi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+andrew_ho@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+mykhailo_kravtsov@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+jeremiah_liu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+snigdhareddy_obulam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+ye_paing@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+chitra_paryani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+gaurav_sharma4@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+justin_wagner@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+,Neha_Kumari@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+sudarshan_aji@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+benji_don@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+asmita_gosavi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+jerry_guo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+megha_gupta@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+nachiket_ingle@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+Kyle_Packard@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+jay_palan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+diya_peng@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+rafael_pinerosrhon@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+michaelangelo_rodriguezayala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+Piyush_Seth@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+Happy_Somani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+Daniel_Zhang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Neha Kumari),0.0,False,False,True,Unassigned,0.0,True,False
+,Nhung_Ho@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+parvez_ahammad@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,True,False
+Neha_Kumari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,True,False
+Zoe_Lam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,True,False
+Byron_Tang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,True,False
+,nikkhil_d@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+ramveer_singh@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Apparna Ramadoss),,0.0,False,False,True,Unassigned,0.0,True,False
+,Paras_Virwaney@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+saikiran_adlakonda@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Krish Garimella),,0.0,False,False,True,Unassigned,0.0,False,False
+,parvez_ahammad@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Principal Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, AI Science",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),,0.0,False,False,True,Unassigned,0.0,False,False
+Divya_Beeram@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),0.0,False,False,True,Unassigned,0.0,True,False
+ian_pirro@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),0.0,False,False,True,Unassigned,0.0,True,False
+zhanar_seitmagzimova@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nhung Ho),Organization (Parvez Ahammad),0.0,False,False,True,Unassigned,0.0,True,False
+,Pawan_Singh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+aditya_alluri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+claire_dowling@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+yafei_han@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Adrian_Kim@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+jason_lin@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+frank_m@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+qinyao_mou@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+nikhil_pangarkar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Arpit_Patel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Rohan_Patel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+anhdung_pham@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+cassandra_pizarro@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+priya_rao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+manoj_ravindran@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+faheem_samol@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Puneet_Bhagat@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+stan_auge@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+shashank_bhardwaj@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Yuga_Gandikota@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+vilekya_gundlapally@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Alisha_Kamat@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+anirudh_kothapalli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Chinmay_Ladage@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+fang_liu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Clinton_Nielsen@Intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Alexandria_Marone@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Anitha_Prakash@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+sasank_viswanadha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+,Pushparaj_Shanmugam@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+bharath_gadiyaram@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Pushparaj Shanmugam),0.0,False,False,True,Unassigned,0.0,True,False
+Pradeep_Puthuparampil@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Pushparaj Shanmugam),0.0,False,False,True,Unassigned,0.0,True,False
+Sanjay_Ramakrishna@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Pushparaj Shanmugam),0.0,False,False,True,Unassigned,0.0,True,False
+anurag_singla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Pushparaj Shanmugam),0.0,False,False,True,Unassigned,0.0,True,False
+,rahul_gupta2@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+kharim_ames@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+aayush_dani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+yanjin_deng@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+bhumika_jain@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+matthew_jaslove@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+kevin_mejia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+justin_moroz@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+eric_ngeo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+deep_patel2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+saiprasanna_ranganathan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+rinkal_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+arthur_yip@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+bruce_zha@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+lichao_zhou@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+,rajesh_devadasan@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+devendra_alimchandani@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Rajesh Devadasan),0.0,False,False,True,Unassigned,0.0,False,False
+,Rajesh_Kadle@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Riti_Arora@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Puneet_Bhagat@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Pankaj_Dubey@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Vijay_Dubey@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Kevin_Fong@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+naveen_jayaraman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Divakar_Ungatla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+,rajiv_deshmukh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,False,False
+Gautham_Asok@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Stefan_Bonilla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+gabriel_delvillardesantiago@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+german_flores@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+nishanthreddy_kuninti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+kristie_kwak@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+eude_lesperance@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Anat_Levin@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Yuriy_Lichman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Mithun_Mahadevan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+pandiarajan_subramani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+Yoshi_Sugawara@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+shivang_trivedi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+diego_vegamaravilla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+brad_wright@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+daniel_yoo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+kuiduan_zeng@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Easwar Samy),0.0,False,False,True,Unassigned,0.0,True,False
+,Ramdas_Baliga@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),0.0,False,False,True,Unassigned,0.0,False,False
+manasa_budamagunta@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+sahitya_chalamchala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+sinchana_demlapurarudrappa@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+saishree_jayakumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+apoorv_pachori@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+mani_packianathan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+anusha_podupuganti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+rajiv_ranjan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+darsh_sanghavi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Todd_Tang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Quy_Tran@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Balarka_Velidi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+zhuoying_yi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+,rishupreet_kaur@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+mitul_gupta@intuit.com,,Employee,GBSG - PD (Kashi Kakarla),Organization (Krithika Swaminathan),,0.0,False,False,True,Unassigned,0.0,True,False
+,Riti_Arora@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+akshathav_bhat@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+rahul_chouhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+abhishek_gupta2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+somnath_hazra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+anshika_jain@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+pavanv_jamkhandi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Vaibhav_Kamble@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+hitesh_khatri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+akshath_krishna@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+rajat_kumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+aadya_mishra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+abhisar_mohapatra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Harini_Pa@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+jasika_sahu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+neha_sharma@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+aditya_shenoyy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+,rohini_prasad@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,False,False
+gabriel_barrios@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+thomas_chu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+saloni_desai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+niuroska_filardi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+tony_guo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+leopoldo_hernandez@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+wonbin_jeong@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+kai_lazarov@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+nina_long@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+enkhbold_ochirbat@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+parsad_upendra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+manan_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+Charles_Tao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+sonny_tulyaganov@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+diego_vazquez@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+jeffrey_wu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+hugo_xu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+kishore_yedavalli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+john_zuccarelli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+,ROHIT_IJANTKAR@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+solomon_antoine@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+raymond_broome@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+dave_charnuska@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+kristin_diep@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+navyagopal_garapati@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+qadir_haqq@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+obi_ihejirika@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+akshay_jain1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+Shuweb_Mubeen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+jay_pandya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+olga_romanova@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+arpit_srivastava@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+amir_tawfik@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+miguel_tejada@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+ryan_vanbelkum@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Ronny_Kaynan@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+eran_lador@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Allison Bellah),Organization (Ronny Kaynan),0.0,False,False,True,Unassigned,0.0,True,False
+,Sailaja_Gaddipati@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Intern, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra),100.0,False,False,False,Properly Allocated,1.0,False,False
+Dustin_Callaway@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+aarthi_gunda@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+Matthew_Haldeman@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+brad_lee@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+ankush_mittal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+steve_nacache@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+bonnie_pan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+john_sartore@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+vishalaxi_tandel@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+andrew_thanka@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Beatrice Hendra (On Leave)),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Shirish_Peshwe@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+"Software Engineer 2, Dandvate, Ajinkya",,Offers,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,False,False
+mohammad_aquib@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+bandaru_mokshagnya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+mudrika_chawla@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+naveenkumar_ds@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+aashi_gangrade@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+akshat_jain1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Rohit_Kumar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+surabhi_kumari@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+Dishi_Mittal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+akhila_pamidi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+KGirija_Sameera@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+sudharsan_saravanan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+kirti_singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Mandar Kale),0.0,False,False,True,Unassigned,0.0,True,False
+,sinclair_machado@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+neeraj_balotia@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Nidhi Gopal),,0.0,False,False,True,Unassigned,0.0,False,False
+ramya_e@intuit.com,,CW,GBSG - PD (Kashi Kakarla),Organization (Krithika Swaminathan),Organization (Nidhi Gopal),0.0,False,False,True,Unassigned,0.0,False,False
+,steve_saxon@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+amandeep_singh4@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Steve Saxon),0.0,False,False,True,Unassigned,0.0,True,False
+,Sujay_Sundaram@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,False,False
+Gaurav_Budjade@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Tina_Chang@intuit.com,,CW,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,False,False
+fan_gabbett@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+sushant_joshi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+ankit_katiyar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Susmitha_Kodamarthi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+,sumita_bhallamudi@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 1,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 1,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+Software Engineer 2,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,False,False
+AravindSingh_Bisht@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Jordan_Burgess@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Rupehra_Chouhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+sugandha_duhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+pooja_gond@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+gerardo_gutierrez@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+apurv_kamalapuri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+kiranmayee_kesana@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+sindhujaguddappa_naik@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+sparsha_ramakrishna@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+sahana_r@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Ethan_Schwartz2@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+jasmeen_sran@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+roy_vannakittikun@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Reshma_Zacharia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Sushma_Rathnam@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+marcela_chaverri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+dunlin_deng@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,100.0,False,False,False,Properly Allocated,1.0,True,False
+KiranKumarReddy_Digavinti@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,False,False,True,Unassigned,0.0,True,False
+che_hammond@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,0.0,False,False,True,Unassigned,0.0,True,False
+Erica_Hang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,False,False,False,Properly Allocated,1.0,True,False
+beatrice_hendra@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,100.0,False,False,False,Properly Allocated,1.0,True,False
+Greg_Kesler@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,False,False,True,Unassigned,0.0,True,False
+Balachandra_Maddina@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,False,False,True,Unassigned,0.0,True,False
+Saket_Malviya@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,0.0,False,False,True,Unassigned,0.0,True,False
+jyothi_potluri@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,0.0,False,False,True,Unassigned,0.0,True,False
+Mike_Tai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),,100.0,False,False,False,Properly Allocated,1.0,True,False
+michael_willson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,False,False,True,Unassigned,0.0,True,False
+,Susmitha_Kodamarthi@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,False,False
+Liam_Amy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+callum_atwal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Duncan_Brown@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+bethany_hodd@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Aleks_Ivanov@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+saumya_jaiswal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Jyoti_Jaiswal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+tigs_knowles@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+peter_lightbody@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Rachana_Mamillapalli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+alex_musgrove@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+david_robson@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+marinela_roca@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+sara_ruini@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+jaymin_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+Ankush_Tayal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Sujay Sundaram),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Swathi_sekaran@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,False,False
+ravali_bojja@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Marco_Cerna@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+athan_chan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+guo_chen@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Ramesh_Chockalingam@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+anastasia_germanova@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Sayali_Gole@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Su_Pu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+joseph_roddy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+MEKHA_VARGHESE@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+wenfei_wang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+Bindu_Yerramada@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Hsin Tsao),100.0,False,False,False,Properly Allocated,1.0,True,False
+,SyedIqbal_Nasim@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+ankit_jain@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Saurabh Saxena),,0.0,False,False,True,Unassigned,0.0,False,False
+sriprakash_sharma@intuit.com,,CW,GBSG - PD (Kashi Kakarla),Organization (Krithika Swaminathan),Organization (Nidhi Gopal),0.0,False,False,True,Unassigned,0.0,False,False
+amarjeet_vikram@intuit.com,,CW,SBSEG - PD (Kashi Kakarla),Organization (Nidhi Gopal),,0.0,False,False,True,Unassigned,0.0,False,False
+,tanya_vlahovic@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Principal Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,False,False
+"Manager 2, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,100.0,False,False,False,Properly Allocated,1.0,False,False
+shekhar_banerjee@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+karthick_gunasekaran@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+rushabh_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+Pawan_Singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tanya Vlahovic),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Tarun_Dhawan@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+"Manager 2, Software Engineering",,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Enrique_Barragan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+sumita_bhallamudi@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+Ashwin_Bharadwaj@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+yuval_naveh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+ash_nayak@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+Muthukumar_Selvadurai@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+AMIT_SETHIYA@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),100.0,False,False,False,Properly Allocated,1.0,True,False
+Brad_Sinclair@Intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Tarun Dhawan),0.0,False,False,True,Unassigned,0.0,True,False
+,Thomas_Lee@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+olga_kuriatnyk@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Lakshmi Balakrishna),,0.0,False,False,True,Unassigned,0.0,True,False
+,Varsha_Venkatesh@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+kanoe_aiu@intuit.com,,Employee,SBSEG - PD (Kashi Kakarla),Organization (Shilpa Reddy),,0.0,False,False,True,Unassigned,0.0,True,False
+diana_garcia1@intuit.com,,Employee,GBSG - PD (Kashi Kakarla),Organization (Tushar Thakker),Organization (Deepthi Pulluri),0.0,False,False,True,Unassigned,0.0,True,False
+,Varun_Gupta@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),,0.0,False,False,True,Unassigned,0.0,False,False
+kunal_bhimjiyani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Shashank_Chandregowda@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+spencer_derecat@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Velu_Ganapathy@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+phyothinza_ko@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Prateek_Kohli@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Mitchell_Lee@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Manuel_Lugo@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+robert_nio@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+vishnuvardhan_purusotham@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+yernagula_rao@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+sushma_sathyanarayana@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+Shalaka_Somani@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+michelle_tang@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+vikram_waradpande@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+shirley_wu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+jiaxin_yuan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Varun Gupta),0.0,False,False,True,Unassigned,0.0,True,False
+,Vijay_Dubey@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Senior Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,False,False
+Manasi_Ambekar@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Hemant_Borase@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Simon_Liu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+vipin_madhusoodananvimala@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Sudarsan_Mukundhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+Priti_Singh@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Rajesh Kadle),0.0,False,False,True,Unassigned,0.0,True,False
+,Vijay_Kulkarni@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+Staff Software Engineer,,Reqs,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,False,False
+Malabika_Biswas@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+weimin_li@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+emily_margis@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Avinash_Padmanabhan@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Neha_Patil@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+Kevin_Xu@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Apparna Ramadoss),Organization (Kishore Bulusu),100.0,False,False,False,Properly Allocated,1.0,True,False
+,Vijeth_Patil@intuit.com,,,,,0.0,False,False,True,Unassigned,0.0,False,False
+rankit@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+vedika_agrawal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+pratik_anand1@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+diksha_bajaj@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+ankita_jain@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+gaurav_kamal@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+sharath_kumarr@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+chiranjeevi_r@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+priyasha_setia@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+ishit_shah@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+adarsh_srivastava@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False
+shagun_varshney@intuit.com,,Employee,Business Platform Services (Kashi Kakarla),Organization (Nandu Ramani),Organization (Manish Kumar Singh),0.0,False,False,True,Unassigned,0.0,True,False

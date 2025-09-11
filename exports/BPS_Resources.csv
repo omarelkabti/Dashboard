@@ -1,0 +1,755 @@
+resource_name,supervisor,director_org,vp_org,total_allocation_pct,workstream1_completed,type
+Senior Software Engineer,Unassigned,,Organization (Sushma Rathnam),0.0,,Reqs
+Staff Software Engineer,Unassigned,Organization (Hsin Tsao),Organization (Apparna Ramadoss),0.0,,Reqs
+Senior Staff Software Engineer,Unassigned,,Organization (Nhung Ho),0.0,,Reqs
+Principal Software Engineer,Unassigned,,,0.0,,Reqs
+"Software Engineer 2, Somani, Saurav",Unassigned,,Organization (Nandu Ramani),0.0,,Offers
+"Manager 3, Technical Program Management",Allison_Bellah@intuit.com,,,100.0,,Reqs
+"Manager 3, Technical Program Management",Allison_Bellah@intuit.com,,,100.0,,Reqs
+yauna_baron@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+janine_buellesbach@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),200.0,,Employee
+jayshree_chatterjee@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+rajesh_devadasan@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+omar_elkabti@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+Joshua_Godinez@intuit.com,Allison_Bellah@intuit.com,Organization (Allison Bellah (Inherited)),Organization (Allison Bellah),100.0,,Employee
+pierre_gustafsson@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+minar_karia@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+Ronny_Kaynan@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+harshvardhan_kharshingkar@intuit.com,Allison_Bellah@intuit.com,Organization (Allison Bellah (Inherited)),Organization (Allison Bellah),100.0,,Employee
+geetha_kuppuswamy@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+judy_nannini@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+geetha_pandurangan@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+saket_sharan@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+Smita_Upadhyay@intuit.com,Allison_Bellah@intuit.com,,Organization (Allison Bellah),100.0,,Employee
+Senior Software Engineer,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+conner_dunn@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+nabeel_eledroos@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Manasa_Guli@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+manisha_gupta@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+saikiran_karipe@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+neha_kherde@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+hemasree_koganti@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Naveen_Neelakandan@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+devvrat_nigam@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Asiya_Sayyed@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+priyanka_sharma1@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+John_Trudel@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Ashik_Vetrivelu@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+song_zhang@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+baiastan_zhuzupbekov@intuit.com,AMIT_SETHIYA@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+rajiv_deshmukh@intuit.com,Anat_Amar@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Krithika_Sairamesh@intuit.com,Anat_Amar@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Andrew_Schrage@intuit.com,Anat_Amar@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Reqs
+maura_joglekar@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+laura_kirby@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+upendra_kumar@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+daniel_matuszak@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+sueda_nalcaci@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Tina_Nguyen@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+zachary_pfeiffer@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+ruku_roychowdhury@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+jacob_solis@intuit.com,Anjali_Basavaraj@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Senior Specialist,Apparna_Ramadoss@intuit.com,,,0.0,,Reqs
+kishore_bulusu@intuit.com,Apparna_Ramadoss@intuit.com,,Organization (Apparna Ramadoss),100.0,,Employee
+ganesh_dhanavel@intuit.com,Apparna_Ramadoss@intuit.com,,Organization (Apparna Ramadoss),100.0,,Employee
+hsin_tsao@intuit.com,Apparna_Ramadoss@intuit.com,,Organization (Apparna Ramadoss),100.0,,Employee
+Staff Software Engineer,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Reqs
+Senior Software Engineer,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Reqs
+Peter_Chim@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+heng_cui@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+christina_di@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+PradeepKumar_Duvvur@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Abhishek_Ganesan@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Sanya_Jain@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+himanshu_patel@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+arunprassanth_ramaswamybalasubramanian@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+cristian_reynosocastellanos@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Lucille_Wang@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+tyron_wulff@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+yutong_yan@intuit.com,Aradhana_Duppala@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Senior Staff Software Engineer,ash_nayak@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Reqs
+ROHIT_IJANTKAR@intuit.com,ash_nayak@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+praveen_mareedu@intuit.com,ash_nayak@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+bashir_mohammad@intuit.com,ash_nayak@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+rohini_prasad@intuit.com,ash_nayak@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+akshit_agarwal1@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+abhineet_arora@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+nishu_bansal@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+drishti_beohar@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+malvika_bhalla@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+sujal_goel@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+nishu_gurung@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+Dipak_Kumar@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+rashmi_kumari@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+karthik_narayan@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+nikhilkumar_mishra@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+kartikeya_munghate@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+sushmitha_p@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+risheepriya_shanmugam@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+shantanu_shubham@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+jayashri_venkatachalam@intuit.com,Ashish_Agarwal@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+"Intern, Software Engineering",bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+"Intern, Software Engineering",bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+"Intern, Software Engineering",bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+juan_antelo-justiniano@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+radhe_bangad@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+daria_bondarenko@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+daniel_chen1@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+juan_cortes@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+bharat_dumpa@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+johanhumberto_guzmangil@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Gopal_Jayaram@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+emmalee_keatley@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+katie_lin@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+john_mendez@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+maharsh_patel@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+arunkumar_ramanathan@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+amogh_rathnam@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+ruben_ruiz@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+SupreetKaur_Sandhu@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+alexandr_sarandi@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+tova_teichman@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+eric_tsai@intuit.com,bashir_mohammad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Megha_Agrawal@intuit.com,beatrice_hendra@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+moe_alayasreh@intuit.com,beatrice_hendra@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+Sailaja_Gaddipati@intuit.com,beatrice_hendra@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+rahul_gupta2@intuit.com,beatrice_hendra@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+anand_mattikopp@intuit.com,beatrice_hendra@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+narendra_babu@intuit.com,Byron_Tang@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+juhi_chandalia@intuit.com,Byron_Tang@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+Heather_Simpson@intuit.com,Byron_Tang@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+shubham_agarwal@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Wenhan_Goh@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Kedar_Joglekar@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+lina_lin@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Reggie_Miller@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+valerie_panameno@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Sandeep_Reddy@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+carla_borgesreis@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Neil_Thaker@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Venugopal_Yalla@intuit.com,charles_wang@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+"Senior Staff Software Engineer, Gutha, Ramakrishna",charudatta_pable@intuit.com,,Organization (Apparna Ramadoss),100.0,,Offers
+Ratul_Ghosh@intuit.com,charudatta_pable@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Vijay_Kulkarni@intuit.com,charudatta_pable@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Sridhar_Rekula@intuit.com,charudatta_pable@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+nikhil_shirahatti@intuit.com,charudatta_pable@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+keerthanreddy_anugula@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+piyush_choudhary@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+zhao_hu@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+yu_liu@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+shahram_mohrehkesh@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+srinivasan_rengarajan@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+sakshi_suman@intuit.com,Divya_Beeram@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+Senior Software Engineer,dunlin_deng@intuit.com,,Organization (Sushma Rathnam),100.0,,Reqs
+laxmi_agrawal@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Reetendra_Chauhan@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Mihir_Gandhi@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Madhusudhan_Jampala@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+deepa_krishnan1@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+sumit_lamba@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+momina_nofal@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+avi_patel@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Michael_Sharek@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+ketan_soneji@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Naren_Sulur@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+charles_wang@intuit.com,dunlin_deng@intuit.com,Organization (Dunlin Deng),Organization (Sushma Rathnam),100.0,,Employee
+Anat_Amar@intuit.com,Easwar_Samy@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Cheryl_Aranha@intuit.com,Easwar_Samy@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Reqs
+Rebecca_Andrews@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+kalkidan_gebremedhin@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+austine_lee@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+grace_mao@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+Nick_Rook@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+viral_shingala@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+jade_singh@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+Dinesh_Swaminathan@intuit.com,Erica_Hang@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+Senior Software Engineer,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+Staff Software Engineer,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+"Software Engineer 2, Singla, Bhavit",Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Offers
+amritansh_@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+namita_arya@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+sreyans_bothra@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+debasmita_das@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+prosoon_goswami@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+himani_jain@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+harshpreet_singhjohar@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+nishant_mishra@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+palak_mundra@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+aakash_pandit@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+kushagra_pathak@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+abishekram_r@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+SriHarsha_S@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+abhishek_sharma7@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+harpreet_singh@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+shimpeealay_uday@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+sharlet_wilson@intuit.com,Faizahmad_Chaudhari@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+lahari_chepuri@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Elaine_Hwang@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Divyashree_HyderabadPrabhakar@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Neha_Jayaprakash@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+anuradha_krishnaratnam@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Siddharth_Shah@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Marc_Straka@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Lu_Xing@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+maomao_yi@intuit.com,Gaurav_Budjade@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Staff Technical Program Manager,geetha_kuppuswamy@intuit.com,,Organization (Allison Bellah),100.0,,Reqs
+yasmin_azam@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,CW
+petagae_butcher@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,Employee
+Stacie_Ibuki@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,Employee
+anne_loomis@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,Employee
+Venkata_Nuli@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,Employee
+anubhooti_pareek@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,CW
+hiteshi_patel@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,CW
+spriha_singh@intuit.com,geetha_kuppuswamy@intuit.com,Organization (Geetha Kuppuswamy),Organization (Allison Bellah),100.0,,CW
+Taylor_Cressy@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+maria_kissa@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+xiangru_li@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+Jocelyn_Lu@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+vatsal_shah@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+tallal_usman@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+yan_wang@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+eric_xiang@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+yufei_zhao@intuit.com,Heather_Simpson@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),100.0,,Employee
+Ramdas_Baliga@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+kirati_bhuva@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+rahulsingh_khokhar@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+paula_mejia@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+kumar_nagaraj@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),0.0,,Employee
+Swathi_sekaran@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+venkatanaveen_pandala@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+krishnakumar_ramesan@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+udayakanth_sripada@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+hibah_wasim@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+qiangqiang_zhang@intuit.com,hsin_tsao@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Software Engineer 2,Janaki_Nagendra@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+pallavi_angraje@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+saurav_kumar2@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+lokesh_kumar2@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+ritika_lawankar@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+poonam_mishra@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+chandarasekaran_m@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+vinuthna_n@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+premavatipetanyapati_pvshravya@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+akash_rai@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+dhanujapani_sd@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+satish_shivlingsasate@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+deepaank_satyamsinha@intuit.com,Janaki_Nagendra@intuit.com,Organization (Janaki Nagendra),Organization (Nandu Ramani),100.0,,Employee
+kirankumar_balla1@intuit.com,John_Norman@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,CW
+hector_carrillo@intuit.com,juhi_chandalia@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+mauricio_flores@intuit.com,juhi_chandalia@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+shreyavenkatesh_prabhu@intuit.com,juhi_chandalia@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+zekun_wang@intuit.com,juhi_chandalia@intuit.com,Organization (Byron Tang),Organization (Nhung Ho),0.0,,Employee
+Chandana_Allam@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+maithri_chullikana@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+ebony_hargro@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+Rakshith_Hatwar@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+aishwariyaa_indramohan@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+Apurva_Narasimhan@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+karla_ortiz@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+kai_ren@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+mohdehtesham_shareef@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+Mandvi_Singh@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+jiaying_wang@intuit.com,jyothi_potluri@intuit.com,Organization (Jyothi Potluri),Organization (Sushma Rathnam),100.0,,Employee
+Senior Software Engineer,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 2,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Reqs
+anudeepa_dinesh@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+jianfeng_guo@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Saurabh_Jaiswal@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Rishabh_Kashyap@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+yunen_li@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+divyamownika_pasam@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Prasanth_Sridhar@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+jeenal_thakkar@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+sapan_tiwari@intuit.com,karthick_gunasekaran@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Allison_Bellah@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+alpesh_gaglani@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+Nhung_Ho@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+Vidya_Narayanan@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+Apparna_Ramadoss@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+nandu_ramani@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+Sushma_Rathnam@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+quyen_thai@intuit.com,Kashi_Kakarla@intuit.com,,,100.0,,Employee
+Brandi_Black@intuit.com,Kathy_Paulsen@intuit.com,Organization (Kathy Paulsen),Organization (Nandu Ramani),100.0,,Employee
+Mandy_Ha@intuit.com,Kathy_Paulsen@intuit.com,Organization (Kathy Paulsen),Organization (Nandu Ramani),100.0,,Employee
+Jason_Willoughby@intuit.com,Kathy_Paulsen@intuit.com,Organization (Kathy Paulsen),Organization (Nandu Ramani),100.0,,Employee
+"Manager 3, Software Engineering",kishore_bulusu@intuit.com,,Organization (Apparna Ramadoss),100.0,,Reqs
+"Staff Software Engineer, Tejawsy, Lavanya",kishore_bulusu@intuit.com,,Organization (Apparna Ramadoss),100.0,,Offers
+"Senior Staff Software Engineer, Bokor, Brian",kishore_bulusu@intuit.com,,Organization (Apparna Ramadoss),100.0,,Offers
+"Staff Software Engineer, Sheikh, Abdul Haleem",kishore_bulusu@intuit.com,,Organization (Apparna Ramadoss),100.0,,Offers
+karthik_akinepalli@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Anjali_Basavaraj@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Aradhana_Duppala@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+suman_dutta1@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+felipe_lopes@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+SatishKumar_Obbu@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+charudatta_pable@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Tyler_Riding@intuit.com,kishore_bulusu@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+"Software Engineer 2, Shah, Srinath",Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Offers
+Emma_Anderson@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Dan_Chetian@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Benjamin_DiGregorio@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Katie_Liu@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Rui_Mao@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Kevin_Nguyen@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Nithya_Pari@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Adriano_Rocha@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+jeremiah_ruidera@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+caleb_stultz@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+praveen_vedanti@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+ValliVidhya_Venkatesan@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Eric_Wong@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Yicheng_Zheng@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Cassandra_Zuria@intuit.com,Krithika_Sairamesh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Senior Staff Software Engineer,Mandar_Kale@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+Senior Staff Software Engineer,Mandar_Kale@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+"Co-Op, Software Engineering",Mandar_Kale@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+"Co-Op, Software Engineering",Mandar_Kale@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+"Co-Op, Software Engineering",Mandar_Kale@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+Naveen_Acharya@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+siddhant_agarwal1@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Faizahmad_Chaudhari@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Satish_Geddam@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Harsha_Navada@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Shirish_Peshwe@intuit.com,Mandar_Kale@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Software Engineer 2,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Staff Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Software Engineer 2,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Software Engineer 2,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Software Engineer 2,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Software Engineer 2,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Staff Software Engineer,ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+"Co-Op, Software Engineering",ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+"Software Engineer 2, Kanungo, Ashee",ManishKumar_Singh@intuit.com,,Organization (Nandu Ramani),0.0,,Offers
+Ashish_Agarwal@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+anshika_agrawal@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+mayank_agrawal@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+rizusher_habib@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+shasank_kakaraparthi@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+sadiya_khan@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+Shubham_Kumar@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+Vijeth_Patil@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+tanmayeepramodgiri_gosavi@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+sarvesh_samvedi@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+KrishanMohan_Sharma@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+abhishek_siddharth@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+somyasurendra_singh@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+smaran_singh@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+Manikanta_Sreekakula@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+pradhan_vadirajboccsa@intuit.com,ManishKumar_Singh@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+flor_aquinoortiz@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Josh_Burson@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+abhishek_chowdhury@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Abhinandan_Jayanth@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Nikita_Kale@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+ankita_mishra@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+ankit_nagpal@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+sean_pine@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Dipika_Ramaswamy@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+tejas_rao@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Cindy_Tao@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+carla_vidales@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+ruyang_wang@intuit.com,Mike_Tai@intuit.com,Organization (Mike Tai),Organization (Sushma Rathnam),100.0,,Employee
+Principal Technical Program Manager,minar_karia@intuit.com,,Organization (Allison Bellah),100.0,,Reqs
+John_Norman@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+Michael_Patterson3@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+anshu_rathore@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+muthu_srinivasan@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+vimala_susaiarul@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+deepti_varshney@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+prasanna_veeraraghavan@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+johnny_yu1@intuit.com,minar_karia@intuit.com,Organization (Minar Karia),Organization (Allison Bellah),100.0,,Employee
+charles_bell1@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+Ranadeep_Bhuyan@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+michael_delvalle@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+maulik_desai1@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+emily_ekaireb@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+nicholas_fenton@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+jeffrey_homere@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+dionne_hutson@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+molly_li@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+al_manrique@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+charles_shen@intuit.com,moe_alayasreh@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+Principal Software Engineer,nandu_ramani@intuit.com,,,0.0,,Reqs
+Raviteja_Barlanka@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+Tarun_Dhawan@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+Narayanan_Gopalakrishnan@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Varun_Gupta@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+Rajesh_Kadle@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Mandar_Kale@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+Hema_Maarimuthu@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Janaki_Nagendra@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Kathy_Paulsen@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+jasmine_rodis@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Easwar_Samy@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+steve_saxon@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Pushparaj_Shanmugam@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+ManishKumar_Singh@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),0.0,,Employee
+Sujay_Sundaram@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+tanya_vlahovic@intuit.com,nandu_ramani@intuit.com,,Organization (Nandu Ramani),100.0,,Employee
+"Intern, Software Engineering",naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Staff Software Engineer,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Software Engineer 2,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+claudia_bergeron@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+joe_choi@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+andrew_ho@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+mykhailo_kravtsov@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+jeremiah_liu@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+snigdhareddy_obulam@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+ye_paing@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+chitra_paryani@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+gaurav_sharma4@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+justin_wagner@intuit.com,naveen_jayaraman@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+sudarshan_aji@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+benji_don@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+asmita_gosavi@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+jerry_guo@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+megha_gupta@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+nachiket_ingle@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+Kyle_Packard@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+jay_palan@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+diya_peng@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+rafael_pinerosrhon@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+michaelangelo_rodriguezayala@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+Piyush_Seth@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+Happy_Somani@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+Daniel_Zhang@intuit.com,Neha_Kumari@intuit.com,Organization (Neha Kumari),Organization (Nhung Ho),100.0,,Employee
+parvez_ahammad@intuit.com,Nhung_Ho@intuit.com,,Organization (Nhung Ho),100.0,,Employee
+Neha_Kumari@intuit.com,Nhung_Ho@intuit.com,,Organization (Nhung Ho),0.0,,Employee
+Zoe_Lam@intuit.com,Nhung_Ho@intuit.com,,Organization (Nhung Ho),0.0,,Employee
+Byron_Tang@intuit.com,Nhung_Ho@intuit.com,,Organization (Nhung Ho),0.0,,Employee
+Principal Software Engineer,parvez_ahammad@intuit.com,,Organization (Nhung Ho),100.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+"Intern, AI Science",parvez_ahammad@intuit.com,,Organization (Nhung Ho),0.0,,Reqs
+Divya_Beeram@intuit.com,parvez_ahammad@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+ian_pirro@intuit.com,parvez_ahammad@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+zhanar_seitmagzimova@intuit.com,parvez_ahammad@intuit.com,Organization (Parvez Ahammad),Organization (Nhung Ho),100.0,,Employee
+aditya_alluri@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+claire_dowling@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+yafei_han@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Adrian_Kim@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+jason_lin@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+frank_m@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+qinyao_mou@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+nikhil_pangarkar@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Arpit_Patel@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Rohan_Patel@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+anhdung_pham@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+cassandra_pizarro@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+priya_rao@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+manoj_ravindran@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+faheem_samol@intuit.com,Pawan_Singh@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Reqs
+stan_auge@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+shashank_bhardwaj@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Yuga_Gandikota@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+vilekya_gundlapally@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Alisha_Kamat@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+anirudh_kothapalli@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Chinmay_Ladage@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+fang_liu@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Clinton_Nielsen@Intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Alexandria_Marone@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Anitha_Prakash@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+sasank_viswanadha@intuit.com,Puneet_Bhagat@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+bharath_gadiyaram@intuit.com,Pushparaj_Shanmugam@intuit.com,Organization (Pushparaj Shanmugam),Organization (Nandu Ramani),0.0,,Employee
+Sanjay_Ramakrishna@intuit.com,Pushparaj_Shanmugam@intuit.com,Organization (Pushparaj Shanmugam),Organization (Nandu Ramani),0.0,,Employee
+anurag_singla@intuit.com,Pushparaj_Shanmugam@intuit.com,Organization (Pushparaj Shanmugam),Organization (Nandu Ramani),0.0,,Employee
+kharim_ames@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+aayush_dani@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+yanjin_deng@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+bhumika_jain@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+matthew_jaslove@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+kevin_mejia@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+justin_moroz@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+eric_ngeo@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+deep_patel2@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+saiprasanna_ranganathan@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+rinkal_shah@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+arthur_yip@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+bruce_zha@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+lichao_zhou@intuit.com,rahul_gupta2@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+devendra_alimchandani@intuit.com,rajesh_devadasan@intuit.com,Organization (Rajesh Devadasan),Organization (Allison Bellah),0.0,,CW
+Riti_Arora@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Puneet_Bhagat@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Pankaj_Dubey@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Vijay_Dubey@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Kevin_Fong@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+naveen_jayaraman@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Divakar_Ungatla@intuit.com,Rajesh_Kadle@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Senior Software Engineer,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Reqs
+Gautham_Asok@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Stefan_Bonilla@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+gabriel_delvillardesantiago@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+german_flores@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+nishanthreddy_kuninti@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+kristie_kwak@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+eude_lesperance@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Anat_Levin@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Yuriy_Lichman@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Mithun_Mahadevan@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+pandiarajan_subramani@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Yoshi_Sugawara@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+shivang_trivedi@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+diego_vegamaravilla@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+brad_wright@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+daniel_yoo@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+kuiduan_zeng@intuit.com,rajiv_deshmukh@intuit.com,Organization (Easwar Samy),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Reqs
+Senior Software Engineer,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),0.0,,Reqs
+manasa_budamagunta@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+sahitya_chalamchala@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+sinchana_demlapurarudrappa@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+saishree_jayakumar@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+apoorv_pachori@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+mani_packianathan@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+anusha_podupuganti@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+rajiv_ranjan@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+darsh_sanghavi@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Todd_Tang@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Quy_Tran@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Balarka_Velidi@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+zhuoying_yi@intuit.com,Ramdas_Baliga@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+"Intern, Software Engineering",Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Reqs
+akshathav_bhat@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+rahul_chouhan@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+abhishek_gupta2@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+somnath_hazra@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+anshika_jain@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+pavanv_jamkhandi@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Vaibhav_Kamble@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+hitesh_khatri@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+akshath_krishna@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+rajat_kumar@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+aadya_mishra@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+abhisar_mohapatra@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Harini_Pa@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+jasika_sahu@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+neha_sharma@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+aditya_shenoyy@intuit.com,Riti_Arora@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+"Intern, Software Engineering",rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+"Intern, Software Engineering",rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+"Intern, Software Engineering",rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+gabriel_barrios@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+thomas_chu@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+saloni_desai@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+niuroska_filardi@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+tony_guo@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+leopoldo_hernandez@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+wonbin_jeong@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+kai_lazarov@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+nina_long@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+enkhbold_ochirbat@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+parsad_upendra@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+manan_shah@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Charles_Tao@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+sonny_tulyaganov@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+diego_vazquez@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+jeffrey_wu@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+hugo_xu@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+kishore_yedavalli@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+john_zuccarelli@intuit.com,rohini_prasad@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Senior Software Engineer,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+solomon_antoine@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+raymond_broome@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+dave_charnuska@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+kristin_diep@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+navyagopal_garapati@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+qadir_haqq@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+obi_ihejirika@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+akshay_jain1@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Shuweb_Mubeen@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+jay_pandya@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+olga_romanova@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+arpit_srivastava@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+amir_tawfik@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+miguel_tejada@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+ryan_vanbelkum@intuit.com,ROHIT_IJANTKAR@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+eran_lador@intuit.com,Ronny_Kaynan@intuit.com,Organization (Ronny Kaynan),Organization (Allison Bellah),0.0,,Employee
+"Intern, Software Engineering",Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra),Organization (Sushma Rathnam),100.0,,Reqs
+Dustin_Callaway@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+aarthi_gunda@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+Matthew_Haldeman@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+brad_lee@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+ankush_mittal@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+steve_nacache@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+bonnie_pan@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+john_sartore@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+vishalaxi_tandel@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+andrew_thanka@intuit.com,Sailaja_Gaddipati@intuit.com,Organization (Beatrice Hendra (On Leave)),Organization (Sushma Rathnam),100.0,,Employee
+Staff Software Engineer,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+Staff Software Engineer,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+Staff Software Engineer,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Reqs
+"Software Engineer 2, Dandvate, Ajinkya",Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Offers
+mohammad_aquib@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+bandaru_mokshagnya@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+mudrika_chawla@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+naveenkumar_ds@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+aashi_gangrade@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+akshat_jain1@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Rohit_Kumar@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+surabhi_kumari@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+Dishi_Mittal@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+akhila_pamidi@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+KGirija_Sameera@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+sudharsan_saravanan@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+kirti_singh@intuit.com,Shirish_Peshwe@intuit.com,Organization (Mandar Kale),Organization (Nandu Ramani),100.0,,Employee
+amandeep_singh4@intuit.com,steve_saxon@intuit.com,Organization (Steve Saxon),Organization (Nandu Ramani),0.0,,Employee
+Senior Staff Software Engineer,Sujay_Sundaram@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+Gaurav_Budjade@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Tina_Chang@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,CW
+fan_gabbett@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+sushant_joshi@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+ankit_katiyar@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Susmitha_Kodamarthi@intuit.com,Sujay_Sundaram@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 2,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 2,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 1,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 1,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+Software Engineer 2,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Reqs
+AravindSingh_Bisht@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Jordan_Burgess@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Rupehra_Chouhan@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+sugandha_duhan@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+pooja_gond@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+gerardo_gutierrez@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+apurv_kamalapuri@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+kiranmayee_kesana@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+sindhujaguddappa_naik@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+sparsha_ramakrishna@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+sahana_r@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Ethan_Schwartz2@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+jasmeen_sran@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+roy_vannakittikun@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Reshma_Zacharia@intuit.com,sumita_bhallamudi@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+marcela_chaverri@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+dunlin_deng@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),100.0,,Employee
+KiranKumarReddy_Digavinti@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,,Employee
+che_hammond@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),0.0,,Employee
+Erica_Hang@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),100.0,,Employee
+beatrice_hendra@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),100.0,,Employee
+Greg_Kesler@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,,Employee
+Balachandra_Maddina@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,,Employee
+Saket_Malviya@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),0.0,,Employee
+jyothi_potluri@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),0.0,,Employee
+Mike_Tai@intuit.com,Sushma_Rathnam@intuit.com,,Organization (Sushma Rathnam),100.0,,Employee
+michael_willson@intuit.com,Sushma_Rathnam@intuit.com,Organization (Sushma Rathnam),Organization (Sushma Rathnam),0.0,,Employee
+Staff Software Engineer,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Reqs
+Liam_Amy@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+callum_atwal@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Duncan_Brown@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+bethany_hodd@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Aleks_Ivanov@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+saumya_jaiswal@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Jyoti_Jaiswal@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+tigs_knowles@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+peter_lightbody@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Rachana_Mamillapalli@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+alex_musgrove@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+david_robson@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+marinela_roca@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+sara_ruini@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+jaymin_shah@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Ankush_Tayal@intuit.com,Susmitha_Kodamarthi@intuit.com,Organization (Sujay Sundaram),Organization (Nandu Ramani),100.0,,Employee
+Senior Software Engineer,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Reqs
+Senior Software Engineer,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Reqs
+ravali_bojja@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Marco_Cerna@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+athan_chan@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+guo_chen@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Ramesh_Chockalingam@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+anastasia_germanova@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Sayali_Gole@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Su_Pu@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+joseph_roddy@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+MEKHA_VARGHESE@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+wenfei_wang@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Bindu_Yerramada@intuit.com,Swathi_sekaran@intuit.com,Organization (Hsin Tsao),Organization (Apparna Ramadoss),100.0,,Employee
+Principal Software Engineer,tanya_vlahovic@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+"Manager 2, Software Engineering",tanya_vlahovic@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+shekhar_banerjee@intuit.com,tanya_vlahovic@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+karthick_gunasekaran@intuit.com,tanya_vlahovic@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+rushabh_shah@intuit.com,tanya_vlahovic@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+Pawan_Singh@intuit.com,tanya_vlahovic@intuit.com,Organization (Tanya Vlahovic),Organization (Nandu Ramani),100.0,,Employee
+"Manager 2, Software Engineering",Tarun_Dhawan@intuit.com,,Organization (Nandu Ramani),0.0,,Reqs
+Enrique_Barragan@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+sumita_bhallamudi@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+Ashwin_Bharadwaj@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+yuval_naveh@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+ash_nayak@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+Muthukumar_Selvadurai@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+AMIT_SETHIYA@intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),100.0,,Employee
+Brad_Sinclair@Intuit.com,Tarun_Dhawan@intuit.com,Organization (Tarun Dhawan),Organization (Nandu Ramani),0.0,,Employee
+Staff Software Engineer,Varun_Gupta@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+Senior Software Engineer,Varun_Gupta@intuit.com,,Organization (Nandu Ramani),100.0,,Reqs
+kunal_bhimjiyani@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Shashank_Chandregowda@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+spencer_derecat@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Velu_Ganapathy@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+phyothinza_ko@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Prateek_Kohli@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Mitchell_Lee@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Manuel_Lugo@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+robert_nio@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+vishnuvardhan_purusotham@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+yernagula_rao@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+sushma_sathyanarayana@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Shalaka_Somani@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+michelle_tang@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+vikram_waradpande@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+shirley_wu@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+jiaxin_yuan@intuit.com,Varun_Gupta@intuit.com,Organization (Varun Gupta),Organization (Nandu Ramani),100.0,,Employee
+Staff Software Engineer,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Senior Software Engineer,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Staff Software Engineer,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Reqs
+Manasi_Ambekar@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Hemant_Borase@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Simon_Liu@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+vipin_madhusoodananvimala@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Sudarsan_Mukundhan@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Priti_Singh@intuit.com,Vijay_Dubey@intuit.com,Organization (Rajesh Kadle),Organization (Nandu Ramani),0.0,,Employee
+Staff Software Engineer,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Reqs
+Malabika_Biswas@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+weimin_li@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+emily_margis@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Avinash_Padmanabhan@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Neha_Patil@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+Kevin_Xu@intuit.com,Vijay_Kulkarni@intuit.com,Organization (Kishore Bulusu),Organization (Apparna Ramadoss),100.0,,Employee
+rankit@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+vedika_agrawal@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+pratik_anand1@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+diksha_bajaj@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+ankita_jain@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+gaurav_kamal@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+sharath_kumarr@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+chiranjeevi_r@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+priyasha_setia@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+ishit_shah@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+adarsh_srivastava@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
+shagun_varshney@intuit.com,Vijeth_Patil@intuit.com,Organization (Manish Kumar Singh),Organization (Nandu Ramani),0.0,,Employee
