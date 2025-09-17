@@ -1,0 +1,889 @@
+,,,,,,,,,,,,,"Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 1 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 2 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 3 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 4 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 5 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 6 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 7 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 8 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 9 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 10 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 11 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)","Goal 12 (Input Goals, Local Goals, RTBs, etc.)"
+Workstream Name,Workstream Description,FY,Workstream ID,L3 Org,L4 Leaders,SVP 1-N Rank,Target FTE Headcount,Target CW Headcount,Exit Number,WS Status,Inactive Override,Total Allocation %,workstream_priority_to_be_excluded_1,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_2,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_3,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_4,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_5,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_6,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_7,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_8,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_9,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_10,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_11,Goal Name,Goal Description,Benefit L2,Allocation %,Active,workstream_priority_to_be_excluded_12,Goal Name,Goal Description,Benefit L2,Allocation %,Active
+SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),SBG - AI Growth & Engagement (Formerly Growth & Engagement Smart Products),2026,SBGPD_DwZSTc_57,Business Platform Services (Kashi Kakarla),Nhung Ho,,10,,,Active,false,100,0,TECH-LG-03:Drive Better Together Experiences with Unified Identity,"Unified identity to unlock the power of the Intuit ecosystem for customers, and enable seamless access, personalization, verification, and security for our customers. Through this transformation, we will streamline onboarding, enable once-and-done verification, and power AI-driven experiences across the platform.
+
+Key deliverables:
+1. Streamline customer onboarding through an intuitive BYOI process, simplified setup for complex entity structures, Onboard Mailchimp to Intuit Identity , and AI-powered interface for role management.
+2. Enable customers to get verified once and seamlessly onboard all money, CK & TT products without reverification, including 5 Day early, Bill Pay, refunds transfer, business payments, and compliance-required products like payroll. Offer frictionless checkouts.
+3. Enable new AI agents via reimagined consent management and enhanced authorization capabilities, 
+4. Personalization, prefill and done-for-you experiences for customer customers enabled through profile unification.
+
+Success as measured by:
+1. Onboarding Efficiency: Reduce time to onboard new QBOA Mega Firm customers on BYOI from 30 days to 7 days.
+2. Share of Customers able to access all Intuit products (TT, QB, CK, & MC) without having to create another set of credentials from 50% to 68%.
+3. Verification Optimization: Increase verified customers from 20% to 50%.
+4. AI Integration: Increase AI agents using identity access control from 0% to 100%.
+5. Profile Unification: Increase companies with unified profile across QB, Qb Money, QB Payroll and Mailchimp from 0% to 95%.","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",5,true,0,DFY-EE-IG01:AI Agent Development Foundation,,Customer & Revenue Growth,90,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",5,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SBG - AI Core Products (Formerly QB Smart Products),SBG - AI Core Products (Formerly QB Smart Products),2026,SBGPD_DwZSTc_56,Business Platform Services (Kashi Kakarla),Nhung Ho,,19,,,Active,false,100,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X","Efficiency (Cost, Performance, Savings)",5,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,95,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spend Management,,2026,SBGPD_DwZSTc_214,Business Platform Services (Kashi Kakarla),Nandu Ramani,57,22,,,Active,false,100,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,30,true,0,MNY-BP-IG03:Create comprehensive AP solution through automated workflows and expand payment options / Money - Bill Pay,Bill Pay / Account Payable,Customer & Revenue Growth,30,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",10,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",10,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform: SRE,QBPlatform: SRE,2026,SBGPD_DwZSTc_212,Business Platform Services (Kashi Kakarla),Nandu Ramani,,3,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform: DBE,QBPlatform: DBE,2026,SBGPD_DwZSTc_211,Business Platform Services (Kashi Kakarla),Nandu Ramani,,4,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FMS & Expertise,FMS & Expertise,2026,SBGPD_DwZSTc_210,Business Platform Services (Kashi Kakarla),Allison Bellah,74,7,,,Active,false,100,0,DFY-BP-IG03:Transform Accounting experience with new Accountant platform and enhanced functionality,"Accelerate practice growth and client success across our ecosystem through accountant-centric solutions, and deliver complete confidence in accounting through a strengthened FMS foundation.
+
+The work for Accountant firms to deliver this includes:
+
+1. Next Generation Accountant Platform (SuperNova)\
+   â¢ Build and launch Supernova, the next generation of the QBO Accounting firm platform, as a multi-service app framework offering\
+   â¢ Deliver multi-client workflows supporting both 1P and 3P integrations\
+   â¢ Aggregate Intuit-wide client data views in Client Advisory Console\
+   â¢ Deliver functionality for accountants to do monthly books-close across clients\
+   â¢ Build foundational capabilities critical to larger firms such firm-level identification and management, SSO, and improved performance\
+   â¢ Implement VEP collaboration tools into Supernova for practice efficiency\
+   â¢ Deliver direct and indirect tax preparation functionality with x-client views to manage tax filings\
+   â¢ Reimagine ecosystem discovery for accountants and enable seamless product exploration, adoption, and practice management capabilities\
+   â¢ Establish done-for-you bookkeeping as a trusted accounting firm resource by streamlining the purchase process and enhancing the accountant service experience
+
+2. Accountant ProAdvisor Program\
+   â¢ Lead the industry and rebuild trust with accountants by transforming the ProAdvisor program into a firm-oriented Global Partner Program, spearheading industry standards and thought leadership in AI, CAS 2.0, and Live services with top industry associations, and engaging with accountants year-round through virtual roadshows and regional events.
+
+The work on Accounting tools to deliver this includes:
+
+3. Core Accounting Experience w/ Focus on Mid-Market\
+   â¢ Expand on Market-Leading Core Accounting Capabilities, including scaling and enhancing Books Agent:\
+   Scale Books Agent with done-for-you experiences through personalized onboarding, expanding AI suggestions, automating transaction context gathering & client collaboration, and auto-posting transactions.\
+   â¢ Further efficiency gains in ongoing bookkeeping including leveraging a powerful transaction table throughout the accounting app\
+   â¢ Leverage rich financial data to recommend attach offerings and automate ecosystem accounting\
+   â¢ Remove top friction points in core workflows like bank connections and reconciliation\
+   Accelerate Mid-Market Growth by expanding Accounting SAM:\
+   â¢ Build complete multi-entity, multi-dimensional, multi-user accounting experience\
+   â¢ Deliver Intelligent Books Close workflows with added MM needs for revenue recognition, fixed asset management, accrual accounting and multi-entity allocations and eliminations\
+   â¢ Expand Books Agent to automate class, location, project and entity\
+   â¢ Close multi-currency gaps and automate multi-currency categorization, matching and books close tasks
+
+Success as measured by:\
+â¢ Grow US NTTF QBO GNS - Accountant Channel from 228.6K to 274.4K (20% growth)
+
+â¢ Grow paid GNS with Medium / Large accounting firms from 0 to 4,000 through books close module, client console and paid premium",Customer & Revenue Growth,25,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,50,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,12,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals","Scale Intuit Enterprise Suite (IES) as the AI-powered ERP alternative for large, complex Mid-Market businesses expanding adoption, monetization, service excellence, and differentiation in key verticals. Our roadmap to accelerate IES adoption includes:
+
+1) Enhancing IES Core Capabilities:
+â¢ Done-for-You AI Agents: Introduce Customization and Project Manager Agents to automate operational workflows and unlock incremental monetization.
+â¢ Advanced Financial Management (FMS): Improve multi-entity accounting, ecosystem-wide dimensions, and audit-ready compliance (SOC 1, RBAC L4).
+â¢ AI-Driven Business Intelligence: Deliver real-time financial planning, automated reporting, and customizable analytics with tiered monetization.
+â¢ Expanded Workforce & HCM Capabilities: Build AI-powered HRIS solutions, covering recruiting, performance management, payroll administration, and compliance automation.
+
+2) Industry-Specific Offerings:
+â¢ Vertical Editions: Vertical Editions: Launch industry-specific IES edition with tailored end-to-end workflows for Construction (Project Financials & Management, milestone-based billing) that drive increased win rates, ARPC, and payments penetration in our most attractive vertical 
+â¢ Product-Based Businesses: Deliver inventory management to better serve the needs of Mid-Market product based businesses, particularly in Wholesale and Manufacturing
+
+Success as measured by:
+â¢ Grow IES New Contracts from 1.6K to 11.5K 596% growth)
+
+â¢ Grow IES New Contracts from Construction Vertical from 305 to 2.2K (631% growth)
+
+â¢ Grow IES Payments GNA from 249 to 2.7K (984% growth) 
+
+â¢ Grow IES Payments GNA from Construction Vertical from 25 to 271 (984% growth)
+
+â¢ Grow IES Payroll GNS from 451 to 3.6K (698% growth)",Customer & Revenue Growth,13,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AI & Business Platform,AI & Business Platform,2026,SBGPD_DwZSTc_209,Business Platform Services (Kashi Kakarla),Allison Bellah,73,10,,,Active,false,100,0,TECH-IG04:Trust & Safety,"Improve Intuitâs ability to fight fraud, protect its customers and enforce acceptable use of products and services by enforcing CAP, building in-product AI driven detection and prevention capabilities, automating enforcements and processes using Agentic AI and creating an enterprise content moderation capability.
+
+1. Enhance customer trust and experience across consumers, small business, accountants and mid-market customers by improving account and interaction security while ensuring low friction. This will be achieved through CAP (inc. Passkey & Gov ID) adoption across all offerings, improving account recovery and reactivation experiences, and AI-driven detection and prevention in partnership with Fintech.
+2. Maintain low fraud leakage across the Intuit ecosystem (TT, QB, MC, CK) by utilizing AI-driven anomaly detection and prevention controls and standardizing fraud controls and capabilities across Mailchimp and CK in support of Project Fusion and CFP, respectively.
+3. Reduce content misuse across Intuit's products (MC, GenAI, etc.) by deploying enterprise multi-modality content moderation capabilities and enhancing AI-driven controls.
+4. Advance Trust & Safety tech capabilities by adopting Pega, migrating from the A2D risk platform, implementing Agentic AI across labor-intensive business processes, and scaling and automating sanctions screening.
+
+Success as measured by:
+â¢ Customer Authentication Policy (CAP) enforcement across all offerings and customers (Consumers, Small businesses, Accountants and Mid Market) from N/A to 100%","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",12,true,0,TECH-LG-01:Product and Operational Excellence,"Improve product and operational excellence through customer-centric observability, done-for-you incident management and recovery, integrated product excellence and business metrics, high-quality, performing and cost-efficient cloud resource utilization.
+
+Key deliverables:
+
+1. Done for You Incident Prevention, Management & Recovery: Enable AI Ops experiences for proactive incident prevention and expedited recovery, with chaos engineering, gameday exercises, and load testing solutions, to prevent incidents. Automate root-cause identification, failovers, and enhance incident commander tooling.
+
+2. Change Management Excellence: Implement effective change management, progressive delivery, and automated risk assessment for all Tier 1 and Tier 2 assets to limit customer impact from all  production changes.
+
+3. System Resiliency : Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.
+
+4. Product Excellence: Increase auto remediation of ACP tickets, to reduce security and reliability violations through automated recipes. Integrate operational and business metrics for real-time customer impact visibility for key features. Deliver foundational observability for LLMs and agents.
+
+5. User Experience Performance: Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.
+
+6. Observability cost efficiency: Improve cost efficiency of observability services (logs, metrics, and traces) through automated governance and cost-efficient solutions.
+
+Success as measured by:
+1. User Experience Availability: From 99.85% to â¥99.99% across Tier 1 web and mobile assets
+
+2. Service Availability: From 99.999% to â¥99.999% for Tier 1 assets, 99.999% to â¥99.99% for Tier 2 assets
+
+3. Web App Performance: 100% Tier 1 (from 60%) and >90% Tier 2 (from 88%) web apps with 95%+ good performance interactions
+
+4. Reduced observability (logs, metrics, and traces) costs by at least 10%, achieving total savings of $4M from efforts across the tech ecosystem","Efficiency (Cost, Performance, Savings)",13,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X","Velocity (Automation, Self-Service)",50,true,0,TECH-IG09:Operationalize AI at Scale across Intuit,"Empower all Intuit Development Teams to rapidly create and deploy AI Native applications with GenOS and other platform capabilities in service of Done-for-You Experiences with Expertise (DFYE), Money and Mid-market.
+
+Key deliverables:
+1. AI Standards & RAI Acceleration: Establish and automate comprehensive AI standards, integrating quality tracking with enforcement mechanisms as part of OIP, while simultaneously streamlining RAI governance through automation and simplified processes.Develop Capabilities to comply with emerging AI laws. 
+2. Technology Access: Enable rapid experimentation through access to the latest 3P technology, sandbox environments with synthetic data for testing, and 2-day availability for new LLM & GenAI tech from trusted vendors (e.g. GCP, AWS, OpenAI via Azure).
+3. AI Training: Develop comprehensive, certified training programs for end-to-end AI development with clear proficiency expectations and assessments.
+4. Platform: Implement multi-modality support to enable voice, video, image & text enabled applications, advance unstructured data capabilities through ready-to-use end-to-end paved roads in GenOS for AI Native app development including agent development.
+
+Success as measured by:
+â¢ Voluntary adoption of GenOS to rapidly create and deploy AI native appications, measured by Monthly Active Users from 3000 to 4000 (33% growth) developers
+
+â¢ Voluntary adoption of 3+ AI capabilities (e.g. Agentic AI Starter Kit (GSK), LLM-model access Request) to develop critical focus area experiences from 1200 to 2000 (67% growth) developers","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",12,true,0,TECH-IG09:Operationalize AI at Scale across Intuit,"Empower all Intuit Development Teams to rapidly create and deploy AI Native applications with GenOS and other platform capabilities in service of Done-for-You Experiences with Expertise (DFYE), Money and Mid-market.
+
+Key deliverables:
+1. AI Standards & RAI Acceleration: Establish and automate comprehensive AI standards, integrating quality tracking with enforcement mechanisms as part of OIP, while simultaneously streamlining RAI governance through automation and simplified processes.Develop Capabilities to comply with emerging AI laws. 
+2. Technology Access: Enable rapid experimentation through access to the latest 3P technology, sandbox environments with synthetic data for testing, and 2-day availability for new LLM & GenAI tech from trusted vendors (e.g. GCP, AWS, OpenAI via Azure).
+3. AI Training: Develop comprehensive, certified training programs for end-to-end AI development with clear proficiency expectations and assessments.
+4. Platform: Implement multi-modality support to enable voice, video, image & text enabled applications, advance unstructured data capabilities through ready-to-use end-to-end paved roads in GenOS for AI Native app development including agent development.
+
+Success as measured by:
+â¢ Voluntary adoption of GenOS to rapidly create and deploy AI native appications, measured by Monthly Active Users from 3000 to 4000 (33% growth) developers
+
+â¢ Voluntary adoption of 3+ AI capabilities (e.g. Agentic AI Starter Kit (GSK), LLM-model access Request) to develop critical focus area experiences from 1200 to 2000 (67% growth) developers","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",13,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Small Business Ecosystem,Small Business Ecosystem,2026,SBGPD_DwZSTc_208,Business Platform Services (Kashi Kakarla),Allison Bellah,71,12,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,40,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation","1. Re-ignite demand with prospects and the base with bold new GTM (Q1 FY26):\
+   â¢ Invest in a full funnel media plan including robust top-of-funnel branding, mid-funnel demand generation for consideration, and an always-on bottom-funnel strategy to boost prospect growth and adoption.\
+   â¢ Deliver a Top of funnel âMarket Shapingâ campaign that introduces our platform positioning, enhances our market relevance and establishes Intuit as AI-driven platform company, with the goal of driving familiarity for Intuit and consideration for QuickBooks.\
+   â¢ Execute a prospecting strategy that unlocks high potential under-penetrated audiences: mobile-first/only audiences and Latine/Hispanic-owned businesses.\
+   â¢ Focus on one to many mechanisms for NTTF to drive more volume within Partners (82% NTTF) and Marketing Alliances (95% NTTF) to decrease NTTF CAC at scale.
+
+2. Re-imagine the E2E new customer experience and optimize the traffic-to-start funnel:\
+   â¢ Expand and enhance efforts across both Web and Mobile App surface areas\
+   â¢ Simplify shopping experiences by making them smart (AI) and clear (UX & Content)\
+   â¢ Create personalized journeys for prospects.\
+   â¢ Implement step by step onboarding to get benefit fast from each app, personalized to you as your needs change over time.\
+   â¢ Investing in foundational capabilities (data, measurement, identity stitching).
+
+3. Re-imagine the existing QBO trial experience to reduce friction, increase speed to benefit and conversions.\
+   â¢ Position trial as a lever to convert lower-intent, price-sensitive prospects by enabling âtry before you buyâ access to the platform.\
+   â¢ Redesign trial experience by removing upfront decisions, simplifying onboarding, and accelerating benefit payoff.\
+   â¢ Expand trial motion beyond NTTF to support upgrades and platform attach by embedding trials into key surfaces and introducing SKU-less or premium feature trials.
+
+4. Deliver on our platform value proposition with a differentiated lineup to drive customer growth and ARPC expansion:\
+   â¢ Fusion bundling and more modular ways to buy (1H FY26). For example, a mega platform bundle with access to the complete ecosystem, supported by discount incentives.\
+   â¢ Deliver adds-ons to expand monetization including Services / experts (1H FY26), BI (reporting analytics, benchmarking 1H FY26) AI Agents (3 additional agents 2H FY26), and Sales Tax (subscription to e-file and pay sales tax directly from QB 1H FY26).\
+   â¢ Increase services attach with new sales âExpansionâ team targeting the 53% of SMB QBO customers who have no attached products.
+
+5. Deploy an Omni-channel GTM approach by:\
+   â¢ Stand up an OB prospecting team within SMB Sales to accelerate NTTF growth. Leverage signal based tools to capture and identify higher intent OB prospects to increase NTTF acquisition by 10%.\
+   â¢ Enhance integrated supermodel AI to deliver consistent, data-informed recommendations across all channels enriched from 1P and 3P data sources.\
+   â¢ Invest in: 1) New line up billing and bundling capabilities, 2) Global holdout automation 3) Eloqua to Marketo migration support 4) Operational debt reduction by 30% 5) AI powered recommendations to improve marketing/sales efficiency and reduce time to market.\
+   â¢ Coordinating across marketing, sales, accountant and partner channels leading with platform-first benefit led position or different customer types (including shared planning, vertical, audience, size)\
+   â¢ Quarterly Release Moments (Q4 FY25): Timed platform releases to introduce differentiated product innovation supported by Product, Marketing, Sales, and Customer Support.
+
+Success as measured by:\
+â¢ Grow US NTTF QBO GNS from 1.06M to 1.25M (18% growth)
+
+â¢ Grow US NTTF QBO Plus GNS from 157.1K to 189.4K (21% growth)
+
+â¢ Grow US MM NTTF Advanced GNS from 2.6K to 3K (23% growth)
+
+â¢ Grow Mid-Market Advanced Upgrades from 12.9K to 50K (288% growth)","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,0,GBSG-IG02:Create and scale a multi-channel Partner Program across all partner types,"Scale partner channel revenue and GBSG platform adoption through a unified set of Partner Programs addressing all partner types (Mega-platforms, ISV, agencies, resellers, managed services, distributors) allowing partners to select how they want to programmatically work with Intuit.
+
+1)Launch QB integrated experiences in Amazon Seller Central:\
+â¢Empowering Amazon sellers with unique financial insights and specific QuickBooks experiences within Amazon Seller Central, encouraging them to transition to QuickBooks for more complex financial management. We will deliver a seamless purchase and onboarding experience for new QBO customers while unlocking experiences such as profitability, expense, cash flow financial insights, lending, and auto-matching bank deposits with Amazon to drive done-for-you insights
+
+2)Scale our GTM motions with Strategic Partners:\
+â¢Align Intuit teams (PM, PDM, PD, UX, PMM, Corp Dev, MSE, etc.) around a delivery model for strategic partnerships that address both mega-platforms and strategic partners like Wix, Shopify, and others\
+â¢Develop a resell program to accelerate IES and platform adoption, and vertical-ISV partnerships in key industries. To accomplish this, we will evolve our sales and partner platform capabilities to deliver a unified partner experience through PRM that includes: simplified partner onboarding, integrated lead management, market development funds, referral and conversion tracking, and content self service\
+â¢Deliver commercial API innovation and update the wholesale/reseller API for self service, new APIs for dimensions, sales order, and change orders; build/update connectors to supporting platforms; deliver new core billing functionality like: net terms, customer initiated payments, negotiated wholesale pricing, price matching, repeatable revshare/referral program\
+â¢Launch co-sell and GTM motions with select technology and service partners that drive customer acquisition and/or platform adoption for Intuit and referrals back to partners that complement our JTBD like Wix
+
+3)Launch Intuit GBSG Partner program, enabling partners to choose one or more ways of working with GBSG that benefits customers, Intuit, and our partners:\
+â¢Outbound and Inbound business tracking: Outbound originated from transactable app-marketplace, within the Fusion experience (with new 3P integrations patterns), and through new Agentic experience enabling customers to seamlessly discover, connect and manage the right apps for their business via:\
+â¢Referral: consistent, scalable mechanism for us to refer business back and forth with partners leveraging incentives\
+â¢Revshare: consistent, scalable mechanism to share revenue for joint customers sourced by partners to GBSG (or GBSG to partners)\
+â¢Resell: ability for partners to ""bill on behalf"" of their customers for volume discount across all products (IES, QBO, MC, agents, etc.)\
+â¢Embed and distribute our money products and/or consume our emerging products\
+â¢Launch and scale metering and billing thresholds globally for our developer APIs in exchange for improved technical and business support\
+â¢Collaborate with US marketing to launch a GTM partner program in US that includes lead sharing and joint promotion through GBSG channels including email, web, and product\
+â¢Define, build and execute a partner customer success model with frameworks, processes, partner contractual expectations, technology enablement and measures of success
+
+Success as measured by:\
+â¢ Grow Global Partner Ecosystem (including Strategic Partners, Mailchimp bookings, inbound referrals and IES contracts from VAR Program) customer acquisition from 74.8K to 223.6K (199% YoY growth)
+
+â¢ Grow GNS from Amazon Sellers partnership from 0 to 22.8K
+
+â¢ Increase (adoption) QB Capital loans originated from Amazon partnership from 0 to 2.8K
+
+â¢ Increase (adoption) Media Labs Service Offering - Amazon DSP Self Serve partner from 1 to 35 (3400% growth)
+
+â¢ Increase (adoption) App Partner Program from 416 to 2.9K partners (597% YoY growth)","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM","Launch differentiated done-for-you platform tailored across tiers to drive customer and revenue growth.
+
+Platform & Product
+
+1. Improve key solutions focused on feature parity & product market fit;\
+   â¢ For International, deliver QB Advanced in and 70%+ key feature parity with US\
+   â¢ Roll out QB Live DIWM in UK and ready VEP across tier 1 markets (UK, CAN, and AUS)\
+   â¢ Deliver 3 SKU payroll line-up in the UK & full service payroll in Canada\
+   â¢ Across all International markets, deliver improved Mailchimp solutions for key segments including subscription-based, community-based & digital sales business
+
+2. Launch new DFY platform (Fusion) and AI agents in November;\
+   â¢ For all International, launch Fusion & platform UI including more supported JBTD, more done-for-you experiences powered by AI Agents & Live Experts, improving mobile & delivering MC single sign-on
+
+3. Launch key Money features including pay enabled invoicing & enable payroll as part of money;\
+   â¢ For UK and Canada, deliver pay enabled invoicing for Cards & Bank Transfers\
+   â¢ For UK, enable money movement in Payroll. For Canada, launch payslip tax impounding & and resolve FinTrac adoption\
+   â¢ For the UK and Canada, provide capital offering through select partners only
+
+GTM\
+4) Accelerate mid-market;\
+â¢ Build mid-market sales capability (across NTTF and Service Adoption) including orchestrated demand gen motions across client & partners focusing on Advanced, Mailchimp, PE Invoicing & Payroll. Position for IES in FY27\
+â¢ Expand impact of Mailchimp GTM investments by optimizing OB motions to increase mid-market acquisition, scaling coverage of onboarding and account management to $299+ MRR and driving product (SMS) adoption to improve ARPC
+
+5. Evolve GTM from product to platform;\
+   â¢ Drive NTTF & Service Adoption across the SMB and Mid-Market segments by repositioning our offering highlighting the power of platform while evolving the cornerstone brands\
+   â¢ Drive increased value by developing and executing an out-come driven 3rd party sourcing (BPO/Marketing) strategy focused on platform adoption
+
+New Business Development\
+6) Unlock More Platform SAM in Tier 2 markets\
+â¢ Develop and execute Mailchimp-led platform strategy (focused initially on using Grow Customers as front door to broader platform offering)
+
+Success as measured by:\
+â¢ Grow International NTTF QBO GNS from 523.0K to 580.5K (7% growth)
+
+â¢ Grow International Mailchimp New Paid Subscribers from 197.1K to 221.9K (13% growth)
+
+â¢ Grow International NTTF QBO Advanced GNS from 19.7K to 48.7K (147% growth)
+
+â¢ Increase (adoption) International Payments GNA from 30.6K to 38.7K (33% growth)
+
+â¢ Increase (adoption) International Payroll GNS from 89.5K to 98.8K (10% growth)
+
+â¢ Increase (adoption) International MC New Booking Units â from Fusion â from 0 to 381","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,MNY-BP-IG03:Create comprehensive AP solution through automated workflows and expand payment options,"OBJECTIVE
+Expand beyond bill payments to a comprehensive Accounts Payable solution, allowing SMBs, MMs, and their accountants to manage vendors, bills, payments, at scale, in an automated flow within QBO.
+
+WORK TO BE DONE
+
+Product/Risk
+â¢ Payment Methods: Launch new payment options to pay international vendors, and pay bills through Credit Cards. Continue to enhance payment speeds for ACH & Checks. Improve eligibility for faster payment options. 
+â¢ Account Payables Workflows: Optimize Bill Ingestion, including better categorization, and more efficient email-based ingestion. Automate the end to end workflow from vendor/bill creation to payment and reporting with a focus on larger, more complex MM and High Value Biller businesses
+â¢ Accountant as a user: Streamline Accounts Payable actions and review for clients in bulk as part of Supernova, including collaborative onboarding, RBAC and workflows, payments, reconciliation and cashflow insights.
+â¢ Vendor Experiences: Simplify onboarding process, enhance value proposition with more payment flexibility and document sharing, and implement a real-time payment dashboard for C2s. 
+â¢ Risk: Secure payments, reduce insults through responsible risk management framework, enable growth for Bill Pay, supporting new payment capabilities and improving access to features.
+
+GTM/Sales
+â¢ Build Awareness with Money Moments: Execute quarterly omni-channel acquisition pushes supported by âMoney Momentsâ to drive awareness of high intent businesses while building a brand presence as an AP leader, alongside IES, Fusion and Agentic AI campaigns.
+â¢ Accelerate MM with Money Plays: Conduct orchestrated omni-channel GTM plays to drive conversion for High Value Biller prospects highlighting Speed, Payment Optionality, and AP Agentic AI. Drive leads to a dedicated bill pay sales pod, empowering sellers to sell Bill Pay Premium & Elite highlighting the value proposition of time savings, automation and controls.
+â¢ Increase Accountants firm penetration: Strengthen accountant confidence in Bill Pay for their clients by emphasizing key features such as âenhanced workflowsâ and ârobust audit trailsâ to address delegation of duties and payment controls. Market QBOA enhancements like âSupernova: Bulk AP actions for accountantsâ that will simplify the management of a firmâs portfolio from recording, approving and paying bills.
+â¢ Increase ARPC through disruptive pricing and upgrades: Increase High Value Biller share of wallet & Accountant activation by experimenting with and implementing disruptive pricing with âDo X Get Yâ. Highlight value of Premium & Elite to high propensity customers to drive upgrades.
+
+Success as measured by:
+â¢ Grow Mid-Market Bill Pay GNA from 10.5K to 14.8K (41% growth)
+
+â¢ Grow Bill Pay GNA - Accountant Channel from 31K to 58K (88% growth)
+
+â¢ Grow Bill Pay GNA - Sales Channel from 3.6K to 7.8K (118% growth)
+
+â¢ Grow Small Business Bill Pay GNA from 68.2K to 95.96K (41% growth)
+
+â¢ Drive (adoption) Bill Pay Total Processing Volume per Active Scheduler from 388.1K to 432.9K (12% growth)
+
+â¢ Drive (adoption) Mid-Market Bill Pay Total Processing Volume per Active Scheduler from 647.8K to 901.5K (39% growth)",Customer & Revenue Growth,5,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,5,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BPS | Core Entities,,2026,SBGPD_7187,Business Platform Services (Kashi Kakarla),Nandu Ramani,,14,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BPS | Transactions Foundations,,2026,SBGPD_7186,Business Platform Services (Kashi Kakarla),Nandu Ramani,,17,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BPS | Contacts Management Service,BPS | Contacts Management Service,2026,SBGPD_7185,Business Platform Services (Kashi Kakarla),Nandu Ramani,,14,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SBG | Data Engineering,SBG | Data Engineering,2026,SBGPD_7184,Business Platform Services (Kashi Kakarla),Nandu Ramani,,14,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+",Customer & Revenue Growth,70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform:  Ceres - Data Capabilities,,2026,SBGPD_7143,Business Platform Services (Kashi Kakarla),Nandu Ramani,,8,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Leadership,PD staff,2026,GBSG-U03D5s-37,Business Platform Services (Kashi Kakarla),,70,11,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,35,true,0,DFY-BP-IG03:Transform Accounting experience with new Accountant platform and enhanced functionality,"Accelerate practice growth and client success across our ecosystem through accountant-centric solutions, and deliver complete confidence in accounting through a strengthened FMS foundation.
+
+The work for Accountant firms to deliver this includes:
+
+1. Next Generation Accountant Platform (SuperNova)\
+   â¢ Build and launch Supernova, the next generation of the QBO Accounting firm platform, as a multi-service app framework offering\
+   â¢ Deliver multi-client workflows supporting both 1P and 3P integrations\
+   â¢ Aggregate Intuit-wide client data views in Client Advisory Console\
+   â¢ Deliver functionality for accountants to do monthly books-close across clients\
+   â¢ Build foundational capabilities critical to larger firms such firm-level identification and management, SSO, and improved performance\
+   â¢ Implement VEP collaboration tools into Supernova for practice efficiency\
+   â¢ Deliver direct and indirect tax preparation functionality with x-client views to manage tax filings\
+   â¢ Reimagine ecosystem discovery for accountants and enable seamless product exploration, adoption, and practice management capabilities\
+   â¢ Establish done-for-you bookkeeping as a trusted accounting firm resource by streamlining the purchase process and enhancing the accountant service experience
+
+2. Accountant ProAdvisor Program\
+   â¢ Lead the industry and rebuild trust with accountants by transforming the ProAdvisor program into a firm-oriented Global Partner Program, spearheading industry standards and thought leadership in AI, CAS 2.0, and Live services with top industry associations, and engaging with accountants year-round through virtual roadshows and regional events.
+
+The work on Accounting tools to deliver this includes:
+
+3. Core Accounting Experience w/ Focus on Mid-Market\
+   â¢ Expand on Market-Leading Core Accounting Capabilities, including scaling and enhancing Books Agent:\
+   Scale Books Agent with done-for-you experiences through personalized onboarding, expanding AI suggestions, automating transaction context gathering & client collaboration, and auto-posting transactions.\
+   â¢ Further efficiency gains in ongoing bookkeeping including leveraging a powerful transaction table throughout the accounting app\
+   â¢ Leverage rich financial data to recommend attach offerings and automate ecosystem accounting\
+   â¢ Remove top friction points in core workflows like bank connections and reconciliation\
+   Accelerate Mid-Market Growth by expanding Accounting SAM:\
+   â¢ Build complete multi-entity, multi-dimensional, multi-user accounting experience\
+   â¢ Deliver Intelligent Books Close workflows with added MM needs for revenue recognition, fixed asset management, accrual accounting and multi-entity allocations and eliminations\
+   â¢ Expand Books Agent to automate class, location, project and entity\
+   â¢ Close multi-currency gaps and automate multi-currency categorization, matching and books close tasks
+
+Success as measured by:\
+â¢ Grow US NTTF QBO GNS - Accountant Channel from 228.6K to 274.4K (20% growth)
+
+â¢ Grow paid GNS with Medium / Large accounting firms from 0 to 4,000 through books close module, client console and paid premium",Customer & Revenue Growth,15,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation","1. Re-ignite demand with prospects and the base with bold new GTM (Q1 FY26):\
+   â¢ Invest in a full funnel media plan including robust top-of-funnel branding, mid-funnel demand generation for consideration, and an always-on bottom-funnel strategy to boost prospect growth and adoption.\
+   â¢ Deliver a Top of funnel âMarket Shapingâ campaign that introduces our platform positioning, enhances our market relevance and establishes Intuit as AI-driven platform company, with the goal of driving familiarity for Intuit and consideration for QuickBooks.\
+   â¢ Execute a prospecting strategy that unlocks high potential under-penetrated audiences: mobile-first/only audiences and Latine/Hispanic-owned businesses.\
+   â¢ Focus on one to many mechanisms for NTTF to drive more volume within Partners (82% NTTF) and Marketing Alliances (95% NTTF) to decrease NTTF CAC at scale.
+
+2. Re-imagine the E2E new customer experience and optimize the traffic-to-start funnel:\
+   â¢ Expand and enhance efforts across both Web and Mobile App surface areas\
+   â¢ Simplify shopping experiences by making them smart (AI) and clear (UX & Content)\
+   â¢ Create personalized journeys for prospects.\
+   â¢ Implement step by step onboarding to get benefit fast from each app, personalized to you as your needs change over time.\
+   â¢ Investing in foundational capabilities (data, measurement, identity stitching).
+
+3. Re-imagine the existing QBO trial experience to reduce friction, increase speed to benefit and conversions.\
+   â¢ Position trial as a lever to convert lower-intent, price-sensitive prospects by enabling âtry before you buyâ access to the platform.\
+   â¢ Redesign trial experience by removing upfront decisions, simplifying onboarding, and accelerating benefit payoff.\
+   â¢ Expand trial motion beyond NTTF to support upgrades and platform attach by embedding trials into key surfaces and introducing SKU-less or premium feature trials.
+
+4. Deliver on our platform value proposition with a differentiated lineup to drive customer growth and ARPC expansion:\
+   â¢ Fusion bundling and more modular ways to buy (1H FY26). For example, a mega platform bundle with access to the complete ecosystem, supported by discount incentives.\
+   â¢ Deliver adds-ons to expand monetization including Services / experts (1H FY26), BI (reporting analytics, benchmarking 1H FY26) AI Agents (3 additional agents 2H FY26), and Sales Tax (subscription to e-file and pay sales tax directly from QB 1H FY26).\
+   â¢ Increase services attach with new sales âExpansionâ team targeting the 53% of SMB QBO customers who have no attached products.
+
+5. Deploy an Omni-channel GTM approach by:\
+   â¢ Stand up an OB prospecting team within SMB Sales to accelerate NTTF growth. Leverage signal based tools to capture and identify higher intent OB prospects to increase NTTF acquisition by 10%.\
+   â¢ Enhance integrated supermodel AI to deliver consistent, data-informed recommendations across all channels enriched from 1P and 3P data sources.\
+   â¢ Invest in: 1) New line up billing and bundling capabilities, 2) Global holdout automation 3) Eloqua to Marketo migration support 4) Operational debt reduction by 30% 5) AI powered recommendations to improve marketing/sales efficiency and reduce time to market.\
+   â¢ Coordinating across marketing, sales, accountant and partner channels leading with platform-first benefit led position or different customer types (including shared planning, vertical, audience, size)\
+   â¢ Quarterly Release Moments (Q4 FY25): Timed platform releases to introduce differentiated product innovation supported by Product, Marketing, Sales, and Customer Support.
+
+Success as measured by:\
+â¢ Grow US NTTF QBO GNS from 1.06M to 1.25M (18% growth)
+
+â¢ Grow US NTTF QBO Plus GNS from 157.1K to 189.4K (21% growth)
+
+â¢ Grow US MM NTTF Advanced GNS from 2.6K to 3K (23% growth)
+
+â¢ Grow Mid-Market Advanced Upgrades from 12.9K to 50K (288% growth)","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",5,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM","Launch differentiated done-for-you platform tailored across tiers to drive customer and revenue growth.
+
+Platform & Product
+
+1. Improve key solutions focused on feature parity & product market fit;\
+   â¢ For International, deliver QB Advanced in and 70%+ key feature parity with US\
+   â¢ Roll out QB Live DIWM in UK and ready VEP across tier 1 markets (UK, CAN, and AUS)\
+   â¢ Deliver 3 SKU payroll line-up in the UK & full service payroll in Canada\
+   â¢ Across all International markets, deliver improved Mailchimp solutions for key segments including subscription-based, community-based & digital sales business
+
+2. Launch new DFY platform (Fusion) and AI agents in November;\
+   â¢ For all International, launch Fusion & platform UI including more supported JBTD, more done-for-you experiences powered by AI Agents & Live Experts, improving mobile & delivering MC single sign-on
+
+3. Launch key Money features including pay enabled invoicing & enable payroll as part of money;\
+   â¢ For UK and Canada, deliver pay enabled invoicing for Cards & Bank Transfers\
+   â¢ For UK, enable money movement in Payroll. For Canada, launch payslip tax impounding & and resolve FinTrac adoption\
+   â¢ For the UK and Canada, provide capital offering through select partners only
+
+GTM\
+4) Accelerate mid-market;\
+â¢ Build mid-market sales capability (across NTTF and Service Adoption) including orchestrated demand gen motions across client & partners focusing on Advanced, Mailchimp, PE Invoicing & Payroll. Position for IES in FY27\
+â¢ Expand impact of Mailchimp GTM investments by optimizing OB motions to increase mid-market acquisition, scaling coverage of onboarding and account management to $299+ MRR and driving product (SMS) adoption to improve ARPC
+
+5. Evolve GTM from product to platform;\
+   â¢ Drive NTTF & Service Adoption across the SMB and Mid-Market segments by repositioning our offering highlighting the power of platform while evolving the cornerstone brands\
+   â¢ Drive increased value by developing and executing an out-come driven 3rd party sourcing (BPO/Marketing) strategy focused on platform adoption
+
+New Business Development\
+6) Unlock More Platform SAM in Tier 2 markets\
+â¢ Develop and execute Mailchimp-led platform strategy (focused initially on using Grow Customers as front door to broader platform offering)
+
+Success as measured by:\
+â¢ Grow International NTTF QBO GNS from 523.0K to 580.5K (7% growth)
+
+â¢ Grow International Mailchimp New Paid Subscribers from 197.1K to 221.9K (13% growth)
+
+â¢ Grow International NTTF QBO Advanced GNS from 19.7K to 48.7K (147% growth)
+
+â¢ Increase (adoption) International Payments GNA from 30.6K to 38.7K (33% growth)
+
+â¢ Increase (adoption) International Payroll GNS from 89.5K to 98.8K (10% growth)
+
+â¢ Increase (adoption) International MC New Booking Units â from Fusion â from 0 to 381","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",15,true,0,GBSG-IG02:Create and scale a multi-channel Partner Program across all partner types,"Scale partner channel revenue and GBSG platform adoption through a unified set of Partner Programs addressing all partner types (Mega-platforms, ISV, agencies, resellers, managed services, distributors) allowing partners to select how they want to programmatically work with Intuit.
+
+1)Launch QB integrated experiences in Amazon Seller Central:\
+â¢Empowering Amazon sellers with unique financial insights and specific QuickBooks experiences within Amazon Seller Central, encouraging them to transition to QuickBooks for more complex financial management. We will deliver a seamless purchase and onboarding experience for new QBO customers while unlocking experiences such as profitability, expense, cash flow financial insights, lending, and auto-matching bank deposits with Amazon to drive done-for-you insights
+
+2)Scale our GTM motions with Strategic Partners:\
+â¢Align Intuit teams (PM, PDM, PD, UX, PMM, Corp Dev, MSE, etc.) around a delivery model for strategic partnerships that address both mega-platforms and strategic partners like Wix, Shopify, and others\
+â¢Develop a resell program to accelerate IES and platform adoption, and vertical-ISV partnerships in key industries. To accomplish this, we will evolve our sales and partner platform capabilities to deliver a unified partner experience through PRM that includes: simplified partner onboarding, integrated lead management, market development funds, referral and conversion tracking, and content self service\
+â¢Deliver commercial API innovation and update the wholesale/reseller API for self service, new APIs for dimensions, sales order, and change orders; build/update connectors to supporting platforms; deliver new core billing functionality like: net terms, customer initiated payments, negotiated wholesale pricing, price matching, repeatable revshare/referral program\
+â¢Launch co-sell and GTM motions with select technology and service partners that drive customer acquisition and/or platform adoption for Intuit and referrals back to partners that complement our JTBD like Wix
+
+3)Launch Intuit GBSG Partner program, enabling partners to choose one or more ways of working with GBSG that benefits customers, Intuit, and our partners:\
+â¢Outbound and Inbound business tracking: Outbound originated from transactable app-marketplace, within the Fusion experience (with new 3P integrations patterns), and through new Agentic experience enabling customers to seamlessly discover, connect and manage the right apps for their business via:\
+â¢Referral: consistent, scalable mechanism for us to refer business back and forth with partners leveraging incentives\
+â¢Revshare: consistent, scalable mechanism to share revenue for joint customers sourced by partners to GBSG (or GBSG to partners)\
+â¢Resell: ability for partners to ""bill on behalf"" of their customers for volume discount across all products (IES, QBO, MC, agents, etc.)\
+â¢Embed and distribute our money products and/or consume our emerging products\
+â¢Launch and scale metering and billing thresholds globally for our developer APIs in exchange for improved technical and business support\
+â¢Collaborate with US marketing to launch a GTM partner program in US that includes lead sharing and joint promotion through GBSG channels including email, web, and product\
+â¢Define, build and execute a partner customer success model with frameworks, processes, partner contractual expectations, technology enablement and measures of success
+
+Success as measured by:\
+â¢ Grow Global Partner Ecosystem (including Strategic Partners, Mailchimp bookings, inbound referrals and IES contracts from VAR Program) customer acquisition from 74.8K to 223.6K (199% YoY growth)
+
+â¢ Grow GNS from Amazon Sellers partnership from 0 to 22.8K
+
+â¢ Increase (adoption) QB Capital loans originated from Amazon partnership from 0 to 2.8K
+
+â¢ Increase (adoption) Media Labs Service Offering - Amazon DSP Self Serve partner from 1 to 35 (3400% growth)
+
+â¢ Increase (adoption) App Partner Program from 416 to 2.9K partners (597% YoY growth)","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",15,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",15,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Product Specialists,Create test suites and share domain knowledge to ensure parity. Partner with ProdEx and the CX team to make QB work better for customers.,2026,GBSG-U03D5s-36,Business Platform Services (Kashi Kakarla),Nandu Ramani,46,5,,,Active,false,100,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Customer Growth - Web, Commercialization, and Trials","Funnel optimization, personalization, shopping & sign-up experiences for commercialization, tech foundations for marketing",2026,GBSG-U03D5s-28,Business Platform Services (Kashi Kakarla),Nandu Ramani,41,24,,,Active,false,100,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation / Differentiated Lineup for Customer Growth",Deliver on our platform value proposition with a differentiated lineup to drive customer growth and ARPC expansion.,Customer & Revenue Growth,20,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation / Re-imagine QBO Trial Experience","Re-imagine the existing QBO trial experience to reduce friction, increase speed to benefit and conversions.",Customer & Revenue Growth,15,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation / Re-imagine New Customer Experience",Re-imagine the E2E new customer experience and optimize the traffic-to-start funnel.,Customer & Revenue Growth,20,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation / Re-ignite Demand with New GTM",Re-ignite demand with prospects and the base with bold new GTM (Q1 FY26).,Customer & Revenue Growth,10,true,0,"DFY-BP-IG02:Accelerate customer growth and drive breakthrough platform adoption with bold new demand generation, revamped new customer start, trial and onboarding experiences, and commercial innovation / Omni-channel GTM Approach",Deploy an Omni-channel GTM approach by:.,Customer & Revenue Growth,10,true,0,"TECH-LG-01:Product and Operational Excellence / Done for You Incident Prevention, Management & Recovery","Enhance AI Ops with chaos engineering, gameday exercises, and load testing for quicker incident prevention and recovery. Automate root-cause analysis and failovers, and upgrade incident commander tools.","Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / Product Excellence,Boost auto-remediation of ACP tickets using automated recipes to reduce security and reliability issues. Enhance real-time visibility of customer impact with integrated metrics. Improve observability for LLMs and agents.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / System Resiliency,Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.,"Efficiency (Cost, Performance, Savings)",10,true,0,TECH-LG-01:Product and Operational Excellence / User Experience Performance,Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.,"Efficiency (Cost, Performance, Savings)",5,true,,,,,,,,,,,,,,,,,,
+QB Mobile,"QB Mobile Composite App incl. providing a mobile platform for FinTech and other capabilities (Expenses, Accounting, Time)",2026,GBSG-U03D5s-27,Business Platform Services (Kashi Kakarla),Nandu Ramani,44,41,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Enhance & Optimize Mobile Experience,Enhance and Optimize the Mobile Experience.,Customer & Revenue Growth,50,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,"TECH-LG-01:Product and Operational Excellence / Done for You Incident Prevention, Management & Recovery","Enhance AI Ops with chaos engineering, gameday exercises, and load testing for quicker incident prevention and recovery. Automate root-cause analysis and failovers, and upgrade incident commander tools.","Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / Product Excellence,Boost auto-remediation of ACP tickets using automated recipes to reduce security and reliability issues. Enhance real-time visibility of customer impact with integrated metrics. Improve observability for LLMs and agents.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / System Resiliency,Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / User Experience Performance,Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.,"Efficiency (Cost, Performance, Savings)",5,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 2 Launch AI-First Business Platform & Agents,"Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+","Velocity (Automation, Self-Service)",10,true,,,,,,,,,,,,,,,,,,
+"3P Integrations, App Marketplace & Monetization","API Externalization, Data Connector to QB/Payments Integration, Amazon Seller Central, App Marketplace, 3P Monetization and Partner Program",2026,GBSG-U03D5s-24,Business Platform Services (Kashi Kakarla),Nandu Ramani,42,38,,,Active,false,100,0,GBSG-IG02:Create and scale a multi-channel Partner Program across all partner types / Launch Intuit GBSG Partner program,"Launch partner program that enables partners to choose one or more paths/ways of working with GBSG that benefits customers, Intuit, and our partners:
+Outbound and Inbound business tracking (rev-share and referrals), ability for partners to ""bill on behalf"" of their customers, Launch and scale metering and billing thresholds globally for our developer APIs in exchange for improved technical and business support , with collaboration from marketing and customer success 
+
+",Customer & Revenue Growth,20,true,0,GBSG-IG02:Create and scale a multi-channel Partner Program across all partner types / Launching QB integrated experiences in Amazon Seller Central,"Empowering Amazon sellers with unique financial insights and specific QuickBooks experiences within Amazon Seller Central, encouraging them to transition to QuickBooks for more complex financial management. We will deliver a seamless purchase and onboarding experience for new QBO customers while unlocking experiences such as profitability, expense, cash flow financial insights, lending, and auto-matching bank deposits with Amazon to drive done-for-you insights.",Customer & Revenue Growth,10,true,0,GBSG-IG02:Create and scale a multi-channel Partner Program across all partner types / Scale our GTM motions with Strategic Partners,"Align delivery model for strategic partnerships (megaplatforms like Wix), Launch co-sell and GTM motions with select technology and service partners that both drive customer acquisition and/or platform adoption for Intuit and referrals back to partners that complement our JTBD, Develop a resell program to accelerate IES and platform adoption, and vertical-ISV partnerships in key industries ",Customer & Revenue Growth,20,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,"TECH-LG-01:Product and Operational Excellence / Done for You Incident Prevention, Management & Recovery","Enhance AI Ops with chaos engineering, gameday exercises, and load testing for quicker incident prevention and recovery. Automate root-cause analysis and failovers, and upgrade incident commander tools.","Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / Product Excellence,Boost auto-remediation of ACP tickets using automated recipes to reduce security and reliability issues. Enhance real-time visibility of customer impact with integrated metrics. Improve observability for LLMs and agents.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / System Resiliency,Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / User Experience Performance,Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",10,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 2 Launch AI-First Business Platform & Agents,"Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+","Velocity (Automation, Self-Service)",5,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",5,true,,,,,,
+"CoreApp Foundations, Tooling & Patterns","Dynamic app composition, Featurization & Variability, UX Modernization, UX Patterns, Tools, Doneness, QBDS",2026,GBSG-U03D5s-21,Business Platform Services (Kashi Kakarla),Nandu Ramani,43,20,,,Active,false,100,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Industry-Specific Offerings",Industry-Specific Offerings,Customer & Revenue Growth,10,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,"TECH-LG-01:Product and Operational Excellence / Done for You Incident Prevention, Management & Recovery","Enhance AI Ops with chaos engineering, gameday exercises, and load testing for quicker incident prevention and recovery. Automate root-cause analysis and failovers, and upgrade incident commander tools.","Efficiency (Cost, Performance, Savings)",10,true,0,TECH-LG-01:Product and Operational Excellence / System Resiliency,Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.,"Efficiency (Cost, Performance, Savings)",10,true,0,TECH-LG-01:Product and Operational Excellence / User Experience Performance,Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.,"Efficiency (Cost, Performance, Savings)",10,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",10,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",10,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 4. Implement New Commercialization Framework,"Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)","Velocity (Automation, Self-Service)",20,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch & Scale Platform Experience,Launch and Scale a new Platform experience suite (Fusion).,Customer & Revenue Growth,10,true,,,,,,,,,,,,,,,,,,
+"Fusion - Shared Expereinces (  Navigation, Onboarding, Dashboard, Task Management,)  Fusion E2E and FODE",Better together shared experiences - focused on dashboard and enabling Fusion E2E,2026,GBSG-U03D5s-19,Business Platform Services (Kashi Kakarla),Nandu Ramani,40,68,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch & Scale Platform Experience,Launch and Scale a new Platform experience suite (Fusion).,Customer & Revenue Growth,50,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,"TECH-LG-01:Product and Operational Excellence / Done for You Incident Prevention, Management & Recovery","Enhance AI Ops with chaos engineering, gameday exercises, and load testing for quicker incident prevention and recovery. Automate root-cause analysis and failovers, and upgrade incident commander tools.","Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / Product Excellence,Boost auto-remediation of ACP tickets using automated recipes to reduce security and reliability issues. Enhance real-time visibility of customer impact with integrated metrics. Improve observability for LLMs and agents.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / System Resiliency,Deliver saturation and utilization metrics with auto-detection and adaptive throttling to prevent overload and ensure customer experience stability.,"Efficiency (Cost, Performance, Savings)",5,true,0,TECH-LG-01:Product and Operational Excellence / User Experience Performance,Improve web and mobile app user experience through platform enhancements and AI-assisted insights throughout the SDLC at the point of need.,"Efficiency (Cost, Performance, Savings)",5,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 2 Launch AI-First Business Platform & Agents,"Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+","Velocity (Automation, Self-Service)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",5,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 4. Implement New Commercialization Framework,"Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)","Velocity (Automation, Self-Service)",5,true,,,,,,,,,,,,
+QB Accountants,QuickBooks Accountants product for accounting professionals to manage clients books,2026,GBSG-U03D5s-18,Business Platform Services (Kashi Kakarla),Apparna Ramadoss,10,62,,,Active,false,100,0,DFY-BP-IG03:Transform Accounting experience with new Accountant platform and enhanced functionality / Intuit Accountant Suite,"Intuit Accountant Suite aims to deliver a next-generation, AI-powered platform that deepens accountantsâ engagement with Intuitâs ecosystem. By laying Supernovaâs core foundations, expanding QBOA Add Client and data-driven recommendation engines, and rolling out service apps and an insights console, weâll help firms onboard faster, work more efficiently, and grow their practices. Coordinated readiness across Customer Success, GTM, and Sales ensures a smooth launch that drives awareness, adoption, and revenue.",Customer & Revenue Growth,60,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",40,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBLive,QuickBooks Live offerings to connect to an expert,2026,GBSG-U03D5s-17,Business Platform Services (Kashi Kakarla),Apparna Ramadoss,11,48,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch DFY Experiences with AI & Live Experts,"Launch DFY Experiences, Powered by AI Agents & Live Experts.",Customer & Revenue Growth,70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform:  QB Company/ app foundations/RBAC modernization,QB Company/ app foundations/RBAC modernization,2026,GBSG-U03D5s-16,Business Platform Services (Kashi Kakarla),Nandu Ramani,52,19,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch & Scale Platform Experience,Launch and Scale a new Platform experience suite (Fusion).,Customer & Revenue Growth,10,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,10,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,0,TECH-IG10:Enterprise Systems -  People & Places Technology and Data / Extend Adoption of Key Platforms,"Extend Adoption of Key Platforms: 
+a) Avature to unify recruiter and candidate workflows for hiring processes removing dependency on iCIMS, A4A tool and Awesome req
+b) Workday to unify employee and manager workflows for prioritized processes including replacing Betterworks for performance management system
+c) Implement ServiceNow to streamline HR Service Delivery and foundational information needed to drive agentic AI experiences, robust orchestration tools, and intelligent instrumentation ensuring adaptability to evolving organizational needs.
+","Velocity (Automation, Self-Service)",10,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X","Velocity (Automation, Self-Service)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBO - International,Win International Markets by strengthening product offerings and accelerating holistic Mailchimp and QuickBooks GTM approach,2026,GBSG-U03D5s-15,Business Platform Services (Kashi Kakarla),Nandu Ramani,51,40,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch & Scale Platform Experience,Launch and Scale a new Platform experience suite (Fusion).,Customer & Revenue Growth,10,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Enhance & Optimize Mobile Experience,Enhance and Optimize the Mobile Experience.,Customer & Revenue Growth,10,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM / [Product & Platform] Improve key solutions focused on feature parity & product market fit","For International, deliver QB Advanced in and 70%+ key feature parity with US. Roll out QB Live DIWM in UK and ready VEP across tier 1 markets (UK, CAN, and AUS). Deliver 3 SKU payroll line-up in the UK & full service payroll in Canada. Across all International markets, deliver improved Mailchimp solutions for key segments including  subscription-based, community-based & digital sales business",Customer & Revenue Growth,15,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM / [Product & Platform] Launch new DFY platform (Fusion) and AI agents in November","For all International, launch Fusion & platform UI including more supported JBTD, more done-for-you experiences powered by AI Agents & Live Experts, improving mobile & delivering MC single sign-on",Customer & Revenue Growth,15,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM / [Product & Platform] Launch key Money features including pay enabled invoicing & enable payroll as part of money","For UK and Canada, deliver pay enabled invoicing for Cards & Bank Transfers. For UK, enable money movement in Payroll. For Canada, launch payslip tax impounding & and resolve FinTrac adoption. For the UK and Canada, provide capital offering through select partners only
+",Customer & Revenue Growth,15,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM / [GTM] Accelerate mid-market","Build mid-market sales capability (across NTTF and Service Adoption) including orchestrated demand gen motions across client & partners focusing on Advanced, Mailchimp, PE Invoicing & Payroll. Position for IES in FY27. Expand impact of Mailchimp GTM investments by optimizing OB motions to increase mid-market acquisition, scaling coverage of onboarding and account management to $299+ MRR and driving product (SMS) adoption to improve ARPC
+",Customer & Revenue Growth,15,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM / [GTM] Evolve GTM from product to platform",Drive NTTF & Service Adoption across the SMB and Mid-Market segments by repositioning our offering highlighting the power of platform while evolving the cornerstone brands. Drive increased value by developing and executing an out-come driven 3rd party sourcing (BPO/Marketing) strategy focused on platform adoption,Customer & Revenue Growth,10,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,,,,,,,,,,,,,,,,,,,,,,,,
+Product Based Businessess,"Sourcing the needs of Product Based Business with focus on sourcing, selling, and shipping",2026,GBSG-U03D5s-14,Business Platform Services (Kashi Kakarla),Nandu Ramani,58,42,,,Active,false,100,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,10,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",30,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Expand Supported Jobs-to-be-Done (JTBD),Expand supported JTBDs.,Customer & Revenue Growth,40,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Indirect and Direct Taxes,"Business Compliance across Tax L1's
+Direct Tax:  Help Intuit experts, external tax professionals and business owners file business taxes
+Indirect Tax:  Sales Tax, VAT, GST",2026,GBSG-U03D5s-11,Business Platform Services (Kashi Kakarla),Sushma Rathnam,59,40,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts,"Become THE Platform that businesses rely on daily by transforming QuickBooks into an AI-powered, integrated operating system with: (1) Platform UI, built on a connected suite of apps that solve our Jobs-to-be-Done (JTBD) and connect 1P and 3P data sources; (2) Expanded set of supported JTBDs aligned to the Product Map; (3) Done-for-You (DFY) Experiences, powered by AI Agents and Live Experts; (4) an enhanced Mobile platform and; (5) Reimagine in-product discovery and engagement.
+
+The work to deliver this includes:
+
+1. Launch and Scale a new Platform experience suite (Fusion)\
+   â¢ Launch and scale a platform encompassing 1P and 3P offerings of connected apps with tiering and integrated workflows that drive adoption and cross-sell opportunities.\
+   â¢ Deliver natural language search tool across all connected data to find relevant results, allowing customers to start actions or workflows directly from the search bar\
+   â¢ Develop and scale personalized dashboard and overview pages that are tailored to customers unique needs.
+
+2. Expand supported JTBDs\
+   â¢ Scale Customer Hub and CRM app to include enhancements like customer profiles, contracts, scheduling, etc.)\
+   â¢ Integrate 3P solutions to expand JTBD (e.g. Appointments)\
+   â¢ Deliver, enhance, and scale new sales tax app with end-to-end tax administration, enabling done for you filing on path to 50 states\
+   â¢ Deliver inventory app with fully featured inventory accounting for wholesale, manufacturing, and retail businesses
+
+3. Launch DFY Experiences, Powered by AI Agents & Live Experts\
+   â¢ Scale Agent Feed as central command center\
+   â¢ Launch and mature existing AI Agents that are designed to complete critical customer jobs, including: Accounting, Payments, Finance, Tax, Payroll, Customer, Marketing, Analytics, Projects, etc.\
+   â¢ Expand Live Experts across top platform JTBDs (including Complete Books, Payroll, Marketing, and Financials) and improve retention and conversion of existing QB Live products and services (assisted onboarding, DIWM, Biz Tax)\
+   â¢ Create seamless handoff experience between AI and Live Experts
+
+4. Enhance and Optimize the Mobile Experience\
+   â¢ Launch Platform UI (Fusion) Companion Experience\
+   â¢ Deploy Agent Feed as primary mobile interaction point\
+   â¢ Integrate Collaboration feature for real-time team coordination\
+   â¢ Launch Agents-powered App via Fusion (V2) enhancements\
+   â¢ Enable Mobile Platform Acquisition and In-App Monetization via expanded Billing Capabilities
+
+5. Reimagine In-Product Discovery and Engagement\
+   â¢ Deliver an AI model that personalizes discovery experiences across all audiences and channels based on customerâs in-product activity\
+   â¢ Establish discovery as the foundation of the product experience including Platform UI shared experiences, new agentic discovery experiences, and contextual experiences in workflows\
+   â¢ Launch new Fusion Commercial Model including modularity, upgrades, meters, discounts, and bundles in optimized purchase flows.
+
+Success as measured by:\
+â¢ Grow WW NTTF QBO GNS from 1.58M to 1.83M (16% growth)
+
+â¢ Increase (adoption) QB Live GNS from 0 to 9.7K
+
+â¢ Increase (adoption) Payments GNA from 0 to 13.9K
+
+â¢ Increase (adoption) Payroll GNS from 0 to 30.2K
+
+â¢ Increase (adoption) MC New Booking Units â Fusion driven â from 0 to 1.9K\
+(this measure will be updated at completion of Fusion Beta in Mid-June)",Customer & Revenue Growth,17,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",25,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals","Scale Intuit Enterprise Suite (IES) as the AI-powered ERP alternative for large, complex Mid-Market businesses expanding adoption, monetization, service excellence, and differentiation in key verticals. Our roadmap to accelerate IES adoption includes:
+
+1) Enhancing IES Core Capabilities:
+â¢ Done-for-You AI Agents: Introduce Customization and Project Manager Agents to automate operational workflows and unlock incremental monetization.
+â¢ Advanced Financial Management (FMS): Improve multi-entity accounting, ecosystem-wide dimensions, and audit-ready compliance (SOC 1, RBAC L4).
+â¢ AI-Driven Business Intelligence: Deliver real-time financial planning, automated reporting, and customizable analytics with tiered monetization.
+â¢ Expanded Workforce & HCM Capabilities: Build AI-powered HRIS solutions, covering recruiting, performance management, payroll administration, and compliance automation.
+
+2) Industry-Specific Offerings:
+â¢ Vertical Editions: Vertical Editions: Launch industry-specific IES edition with tailored end-to-end workflows for Construction (Project Financials & Management, milestone-based billing) that drive increased win rates, ARPC, and payments penetration in our most attractive vertical 
+â¢ Product-Based Businesses: Deliver inventory management to better serve the needs of Mid-Market product based businesses, particularly in Wholesale and Manufacturing
+
+Success as measured by:
+â¢ Grow IES New Contracts from 1.6K to 11.5K 596% growth)
+
+â¢ Grow IES New Contracts from Construction Vertical from 305 to 2.2K (631% growth)
+
+â¢ Grow IES Payments GNA from 249 to 2.7K (984% growth) 
+
+â¢ Grow IES Payments GNA from Construction Vertical from 25 to 271 (984% growth)
+
+â¢ Grow IES Payroll GNS from 451 to 3.6K (698% growth)",Customer & Revenue Growth,17,true,0,"GBSG-IG01:Accelerate global growth and adoption through platform improvements, innovation, and GTM","Launch differentiated done-for-you platform tailored across tiers to drive customer and revenue growth.
+
+Platform & Product
+
+1. Improve key solutions focused on feature parity & product market fit;\
+   â¢ For International, deliver QB Advanced in and 70%+ key feature parity with US\
+   â¢ Roll out QB Live DIWM in UK and ready VEP across tier 1 markets (UK, CAN, and AUS)\
+   â¢ Deliver 3 SKU payroll line-up in the UK & full service payroll in Canada\
+   â¢ Across all International markets, deliver improved Mailchimp solutions for key segments including subscription-based, community-based & digital sales business
+
+2. Launch new DFY platform (Fusion) and AI agents in November;\
+   â¢ For all International, launch Fusion & platform UI including more supported JBTD, more done-for-you experiences powered by AI Agents & Live Experts, improving mobile & delivering MC single sign-on
+
+3. Launch key Money features including pay enabled invoicing & enable payroll as part of money;\
+   â¢ For UK and Canada, deliver pay enabled invoicing for Cards & Bank Transfers\
+   â¢ For UK, enable money movement in Payroll. For Canada, launch payslip tax impounding & and resolve FinTrac adoption\
+   â¢ For the UK and Canada, provide capital offering through select partners only
+
+GTM\
+4) Accelerate mid-market;\
+â¢ Build mid-market sales capability (across NTTF and Service Adoption) including orchestrated demand gen motions across client & partners focusing on Advanced, Mailchimp, PE Invoicing & Payroll. Position for IES in FY27\
+â¢ Expand impact of Mailchimp GTM investments by optimizing OB motions to increase mid-market acquisition, scaling coverage of onboarding and account management to $299+ MRR and driving product (SMS) adoption to improve ARPC
+
+5. Evolve GTM from product to platform;\
+   â¢ Drive NTTF & Service Adoption across the SMB and Mid-Market segments by repositioning our offering highlighting the power of platform while evolving the cornerstone brands\
+   â¢ Drive increased value by developing and executing an out-come driven 3rd party sourcing (BPO/Marketing) strategy focused on platform adoption
+
+New Business Development\
+6) Unlock More Platform SAM in Tier 2 markets\
+â¢ Develop and execute Mailchimp-led platform strategy (focused initially on using Grow Customers as front door to broader platform offering)
+
+Success as measured by:\
+â¢ Grow International NTTF QBO GNS from 523.0K to 580.5K (7% growth)
+
+â¢ Grow International Mailchimp New Paid Subscribers from 197.1K to 221.9K (13% growth)
+
+â¢ Grow International NTTF QBO Advanced GNS from 19.7K to 48.7K (147% growth)
+
+â¢ Increase (adoption) International Payments GNA from 30.6K to 38.7K (33% growth)
+
+â¢ Increase (adoption) International Payroll GNS from 89.5K to 98.8K (10% growth)
+
+â¢ Increase (adoption) International MC New Booking Units â from Fusion â from 0 to 381",Customer & Revenue Growth,17,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",8,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 2 Launch AI-First Business Platform & Agents,"Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+","Velocity (Automation, Self-Service)",8,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",8,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Accounting,Accounting Automation,2026,GBSG-U03D5s-10,Business Platform Services (Kashi Kakarla),Sushma Rathnam,50,74,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch DFY Experiences with AI & Live Experts,"Launch DFY Experiences, Powered by AI Agents & Live Experts.",Customer & Revenue Growth,20,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,40,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",7,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 2 Launch AI-First Business Platform & Agents,"Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+","Velocity (Automation, Self-Service)",7,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 3. QB27: AI-powered Business Platform powering small and mid-market businesses worldwide,"Build an Enterprise grade business platform enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events). Achieved via QB Scale Patterns, Configurability, Verticalization, Supportability and Biz Txn 2.0","Velocity (Automation, Self-Service)",6,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform:  Transactions 2.0 including TXP and quickfills,Transactions 2.0 including TXP and quickfills,2026,GBSG-Q7bcCk-53,Business Platform Services (Kashi Kakarla),Nandu Ramani,56,11,,,Active,false,100,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X","Velocity (Automation, Self-Service)",70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform:  API/modernization,API/modernization,2026,GBSG-Q7bcCk-51,Business Platform Services (Kashi Kakarla),Nandu Ramani,54,6,,,Active,false,100,0,"TECH-LG-06:Business Platform Tech Strategy - Building the future business platform / 1. Finish QB25 / QB Modernization program to cut the cord with our Monoliths (QBO, Payroll, Time)","Achieve 100% feature parity with Clean data, Data pipelines migrated, APIs migrated, Data migrated, Retire Monoliths
+","Velocity (Automation, Self-Service)",70,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",30,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QBPlatform:  Search & Audit,QBKR & Search & Audit,2026,GBSG-Q7bcCk-50,Business Platform Services (Kashi Kakarla),Nhung Ho,53,20,,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch & Scale Platform Experience,Launch and Scale a new Platform experience suite (Fusion).,Customer & Revenue Growth,10,true,0,"MMO-IG02:IES - Product: Scale Intuit Enterprise Suite for large, complex Mid-Market businesses and key verticals / Enhance IES Core Capabilities",Enhancing IES Core Capabilities,Customer & Revenue Growth,30,true,0,TECH-IG10:Enterprise Systems -  People & Places Technology and Data,"Strengthen our People & Places technology and data infrastructure to enable P&P priorities, deliver results for our employees, and provide foundational support to the 'How Intuit Works' goal by accelerating the AI work for P&P processes.
+
+1. Extend Adoption of Key Platforms:
+    1a. Avature to unify recruiter and candidate workflows for hiring processes removing dependency on iCIMS, A4A tool and Awesome req
+    1b. Workday to unify employee and manager workflows for prioritized processes including replacing Betterworks for performance management system
+    1c. Implement ServiceNow to streamline HR Service Delivery and foundational information needed to drive agentic AI experiences, robust orchestration tools, and intelligent instrumentation ensuring adaptability to evolving organizational needs.
+
+2. Enhance P&P data maturity by ensuring clean, structured data, queryable through natural language and ready for AI to generate automated insights, visualizations, and contextual decision support through establishment of new architecture (e.g., knowledge graphs)
+
+3.Expert Job Architecture & Compensation Redesign:
+Technology enablement to support implementation of redesigned job architecture and compensation for Experts across P&P and downstream systems and processes.
+
+Success as measured by:
+â¢ Digital support adoption from 0 to 9,800 (70%) employees actively using new HR digital workflows, content, or AI chat","Velocity (Automation, Self-Service)",10,true,0,TECH-LG-06:Business Platform Tech Strategy - Building the future business platform,"Complete the Business Platform modernization to enable sustainable growth beyond $20B in revenue while dramatically improving system reliability and development velocity. In parallel to completing modernization we will deliver an AI-powered Business Platform that serves as the operating system for small and mid-market businesses worldwide. This platform will help customers grow revenue and profitability 2x faster while enabling Intuit to double its growth to $17B and expand its customer base to 13M+. The platform will integrate AI agents, human expertise, and third-party capabilities to automate critical business workflows and deliver ""done-for-you"" experiences.
+
+Key Deliverables:
+1. Complete the remaining set of features including global (from 90% to 100%), with clean data and API migrations
+2. Complete Sales Transaction Service (STS) and Expense Transaction Service (ETS) modernization including feature parity for Tier 2 and Tier 3 transactions by Q2 FY26, enabling full support for mid-market/IES customer scaling needs, including organizations with 1000+ entities, while maintaining performance at planet scale (10B+ daily business events).
+3. Accelerate migration of all data consumers pipelines through enhanced AI tooling and automation, completing all migrations by Q2 FY26, then execute phased shutdown of QBO monolith, reducing footprint to 50% while maintaining service quality
+4. Launch an AI-First business platform featuring 11 job-specific AI agents, the first in the AI fleet, that automate core business workflows, with the goal of saving customers one day of work per week through intelligent automation and proactive insights, and a path to human expertise.
+5. Create a unified data foundation that connects QuickBooks, Mailchimp, and Money products, enabling a 360-degree view of customer business data and seamless and easy integration of 1P, 2P, and 3P capabilities.
+6. Implement a new commercialization framework that enables flexible feature bundling and pricing models, supporting both traditional SKUs and usage-based pricing for AI agents and premium features. Introduce support in Core App for the new discoverability model (defined by FODE)
+
+Success as measured by:
+1. All dependencies removed from the QBO monolith (100% migration of capabilities, data consumers, 3P API traffic, realtime domain events)
+2. 11 agents delivered
+3. Able to support enterprises with 500 child entities; rising to 1000 child entities by end of year
+4. Increase NPS for the Business Platform to X",Customer & Revenue Growth,30,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",20,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PMO - Planning & Financial Operations,PMO - Planning & Financial Operations,2026,GBSG-Q7bcCk-47,Business Platform Services (Kashi Kakarla),Allison Bellah,72,7,2,,Active,false,100,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Intuit Assist teams supporting DFYE Agentic experiences including Business Feed,"Continuous development and maturity of Agents, plus Business Feed & Trialer under Intuit Assist embedded experiences",2026,GBSG-Q7bcCk-45,Business Platform Services (Kashi Kakarla),,30,40,0,,Active,false,100,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Launch DFY Experiences with AI & Live Experts,"Launch DFY Experiences, Powered by AI Agents & Live Experts.",Customer & Revenue Growth,75,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Enhance & Optimize Mobile Experience,Enhance and Optimize the Mobile Experience.,Customer & Revenue Growth,10,true,0,DFY-BP-IG01:Build integrated platform including mobile powered by AI agents and Live experts / Reimagine In-Product Discovery & Engagement,Reimagine In-Product Discovery and Engagement.,Customer & Revenue Growth,5,true,0,RTB,RTB,"Sustaining Benefit (Security, Compliance, Refactoring, Support & Operations)",10,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

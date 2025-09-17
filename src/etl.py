@@ -45,6 +45,130 @@ def read_with_embedded_header(csv_path: str) -> pd.DataFrame:
     
     return df
 
+def process_workstream_goals_csv(csv_path: str) -> pd.DataFrame:
+    """
+    Process the workstream-goals mapping CSV file.
+    Expected format: Two header rows, columns A-M are base workstream info, N+ are goal columns in groups of 6.
+    """
+    try:
+        # Read the CSV file without treating any row as header initially
+        df = pd.read_csv(csv_path, header=None, dtype=str, keep_default_na=False)
+        
+        # Extract headers from first two rows
+        header_row1 = df.iloc[0].tolist()  # Goal numbers/headers
+        header_row2 = df.iloc[1].tolist()  # Detailed column names
+        
+        # Get data rows (skip first 2 header rows)
+        data_df = df.iloc[2:].copy()
+        
+        # Define base column names (columns A-M, indices 0-12)
+        base_cols = [
+            'Workstream Name', 'Workstream Description', 'FY', 'Workstream ID',
+            'L3 Org', 'L4 Leaders', 'SVP 1-N Rank', 'Target FTE Headcount',
+            'Target CW Headcount', 'Exit Number', 'WS Status', 'Inactive Override',
+            'Total Allocation %'
+        ]
+        
+        # Extract base workstream info (first 13 columns)
+        workstream_base = data_df.iloc[:, :13].copy()
+        workstream_base.columns = base_cols
+        
+        # Process goal columns (from column 13 onward, grouped by 6)
+        goal_data = []
+        goal_start_col = 13  # Column N (0-indexed = 13)
+        goal_col_width = 6   # Each goal has 6 columns
+        
+        # Find unique goal headers from row 1
+        unique_goals = []
+        current_goal = None
+        for i, header in enumerate(header_row1[goal_start_col:], start=goal_start_col):
+            if header and header.strip() and 'Goal' in str(header):
+                if header != current_goal:
+                    unique_goals.append((header, i))
+                    current_goal = header
+        
+        # Process each goal
+        for goal_idx, (goal_header, start_col_idx) in enumerate(unique_goals):
+            # Calculate the column range for this goal
+            start_col = start_col_idx
+            end_col = start_col + goal_col_width
+            
+            # Make sure we don't exceed the dataframe bounds
+            if end_col <= len(data_df.columns):
+                goal_cols = data_df.iloc[:, start_col:end_col].copy()
+                
+                # Set proper column names for this goal based on expected structure
+                # The 6 columns per goal are typically: priority, Goal Name, Goal Description, Benefit L2, Allocation %, Active
+                goal_cols.columns = [
+                    'workstream_priority_placeholder',
+                    'Goal Name',
+                    'Goal Description', 
+                    'Benefit L2',
+                    'Allocation %',
+                    'Active'
+                ]
+                
+                # Add base workstream info to each goal row
+                for idx, col in enumerate(base_cols):
+                    if idx < len(workstream_base.columns):
+                        goal_cols[col] = workstream_base.iloc[:, idx].values
+                
+                # Add goal metadata
+                goal_cols['Goal Number'] = goal_idx + 1
+                goal_cols['Goal Header'] = goal_header
+                
+                # Filter out rows where Goal Name is empty, RTB, or not meaningful
+                goal_cols = goal_cols[
+                    (goal_cols['Goal Name'].notna()) & 
+                    (goal_cols['Goal Name'].str.strip() != '') &
+                    (goal_cols['Goal Name'].str.strip() != 'nan') &
+                    (~goal_cols['Goal Name'].str.strip().str.upper().isin(['RTB', 'TBD', '']))
+                ]
+                
+                if len(goal_cols) > 0:
+                    goal_data.append(goal_cols)
+        
+        # Combine all goal data
+        if goal_data:
+            goals_df = pd.concat(goal_data, ignore_index=True)
+            
+            # Clean and convert data types
+            numeric_cols = ['Target FTE Headcount', 'Target CW Headcount', 'Total Allocation %', 'Allocation %', 'SVP 1-N Rank']
+            for col in numeric_cols:
+                if col in goals_df.columns:
+                    # Remove % signs and convert to numeric
+                    goals_df[col] = pd.to_numeric(
+                        goals_df[col].astype(str).str.replace('%', '').str.replace(',', ''), 
+                        errors='coerce'
+                    )
+            
+            # Convert boolean columns
+            bool_cols = ['Active', 'Inactive Override']
+            for col in bool_cols:
+                if col in goals_df.columns:
+                    goals_df[col] = goals_df[col].astype(str).str.lower().isin(['true', 'yes', '1', 'active'])
+            
+            # Clean text columns
+            text_cols = ['Workstream Name', 'Goal Name', 'Goal Description', 'L4 Leaders', 'Benefit L2', 'WS Status']
+            for col in text_cols:
+                if col in goals_df.columns:
+                    goals_df[col] = goals_df[col].astype(str).str.strip()
+            
+            # Remove rows with missing essential data
+            goals_df = goals_df.dropna(subset=['Workstream Name', 'Goal Name'])
+            
+            logger.info(f"Processed {len(goals_df)} goal-workstream mappings from {len(unique_goals)} goals")
+            return goals_df
+        else:
+            logger.warning("No goal data found in the CSV file")
+            return pd.DataFrame()
+            
+    except Exception as e:
+        logger.error(f"Error processing workstream goals CSV: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        return pd.DataFrame()
+
 def find_workstream_pairs(cols):
     """Dynamically find workstream and percentage column pairs"""
     ws_cols = {}

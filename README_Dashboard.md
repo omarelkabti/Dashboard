@@ -45,8 +45,15 @@ pip install -r requirements.txt
 - `numpy>=1.24.0`
 
 ### Data Setup
-1. Place your PET Resource Allocation CSV files in the `data/` directory
-2. The dashboard will automatically use the most recently modified CSV file
+1. **Resource Allocation Data**: Place your PET Resource Allocation CSV files in the `data/` directory
+2. **Workstream-Goals Mapping Data**: Place your PET Workstream Goals Data Grid CSV files in the `looker_data/` directory
+3. The dashboard will automatically use the most recently modified CSV file from each directory
+
+### Goal Mapping Data Format
+For files in `looker_data/` (files with "Goals" in filename):
+- **Columns A-M**: Base workstream information (Name, Description, L4 Leaders, Target FTE, etc.)
+- **Columns N+**: Goal columns in groups of 6 (Priority, Goal Name, Goal Description, Benefit L2, Allocation %, Active)
+- **Two-header format**: Goal numbers in row 1, detailed column names in row 2
 
 ### Running the Dashboard
 ```bash
@@ -78,6 +85,29 @@ The dashboard will be available at `http://localhost:8501`
   - Workstream 1 completion status
   - Allocation status (Over/Under/Unassigned/Proper)
 - **Resource-level Details**: Individual allocation and status information
+
+### 5. Goal Overview Tab (NEW)
+- **Goal Mapping Summary**: Total workstreams, goals, and FTE allocation
+- **Allocation Visualizations**: 
+  - Allocation by workstream (horizontal bar chart)
+  - Allocation by benefit type (pie chart)
+- **Goal Details Table**: Filterable table with:
+  - L4 Leaders filter
+  - Benefit type filter
+  - Active goals only toggle
+
+### 6. Goal Analysis Tab (NEW)
+- **Interactive Drilldown**: Analysis by L4 Leaders, Workstream, Goal, or Benefit Type
+- **Dual Visualizations**: Allocation and FTE distribution charts
+- **Detailed Breakdown**: Selection-based detailed view with metrics
+
+### 7. Integrated View Tab (NEW)
+- **Workstream Matching**: Shows which workstreams appear in both datasets
+- **Combined Analysis**: Detailed view for matched workstreams showing:
+  - Goal mapping information (allocation %, benefit type, target FTE)
+  - Resource allocation details (assigned people, allocation percentages)
+- **L4 Leader Summary**: Aggregated view by leadership
+- **Hierarchy Visualization**: Treemap showing goal allocation hierarchy
 
 ## Key Metrics Explained
 

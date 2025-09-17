@@ -15,7 +15,8 @@ import os
 # Add src directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from etl import process_pet_csv
+from src.etl import process_pet_csv, process_workstream_goals_csv
+from src.views.goal_view import create_goal_overview, create_goal_drilldown, create_integrated_view
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -56,21 +57,38 @@ st.markdown("""
 def load_data():
     """Load and cache data from CSV files"""
     data_dir = Path("data")
+    looker_data_dir = Path("looker_data")
+    
+    # Load resource allocation data
     csv_files = list(data_dir.glob("*.csv"))
+    people_df, hierarchy_df = None, None
     
-    if not csv_files:
-        st.error("No CSV files found in the data directory")
-        return None, None
+    if csv_files:
+        # Use the most recent file by default
+        latest_file = max(csv_files, key=lambda x: x.stat().st_mtime)
+        
+        try:
+            people_df, hierarchy_df = process_pet_csv(str(latest_file))
+        except Exception as e:
+            st.error(f"Error loading resource allocation data: {str(e)}")
     
-    # Use the most recent file by default
-    latest_file = max(csv_files, key=lambda x: x.stat().st_mtime)
+    # Load workstream-goals data
+    goals_files = list(looker_data_dir.glob("*Goals*.csv"))
+    goals_df = None
     
-    try:
-        people_df, hierarchy_df = process_pet_csv(str(latest_file))
-        return people_df, hierarchy_df
-    except Exception as e:
-        st.error(f"Error loading data: {str(e)}")
-        return None, None
+    if goals_files:
+        # Use the most recent goals file
+        latest_goals_file = max(goals_files, key=lambda x: x.stat().st_mtime)
+        
+        try:
+            goals_df = process_workstream_goals_csv(str(latest_goals_file))
+        except Exception as e:
+            st.error(f"Error loading workstream goals data: {str(e)}")
+            goals_df = pd.DataFrame()
+    else:
+        goals_df = pd.DataFrame()
+    
+    return people_df, hierarchy_df, goals_df
 
 def create_summary_metrics(df):
     """Create summary metrics for the dashboard focused on Business Platform Services"""
@@ -562,9 +580,10 @@ def main():
     
     # Load data
     with st.spinner("Loading data..."):
-        people_df, hierarchy_df = load_data()
+        people_df, hierarchy_df, goals_df = load_data()
     
-    if people_df is None:
+    if people_df is None and goals_df.empty:
+        st.error("No data available. Please ensure CSV files are in the data/ and looker_data/ directories.")
         st.stop()
     
     # Search bar at the top
@@ -583,51 +602,84 @@ def main():
             st.session_state.global_search = ""
             st.rerun()
     
-    # Apply search filter if search term is provided
-    original_count = len(people_df)
-    if search_term:
+    # Apply search filter if search term is provided (only if people_df exists)
+    original_count = len(people_df) if people_df is not None else 0
+    if search_term and people_df is not None:
         people_df = apply_search_filter(people_df, search_term)
         filtered_count = len(people_df)
         
         if filtered_count == 0:
             st.warning(f"No results found for '{search_term}'. Showing all data.")
-            people_df, hierarchy_df = load_data()  # Reload original data
+            people_df, hierarchy_df, goals_df = load_data()  # Reload original data
         else:
             st.info(f"Found {filtered_count} resources matching '{search_term}' (filtered from {original_count} total)")
     
     st.markdown("---")
     
-    # Summary metrics
-    create_summary_metrics(people_df)
+    # Summary metrics (only show if people_df exists)
+    if people_df is not None:
+        create_summary_metrics(people_df)
     
     st.divider()
     
-    # Tab layout for different views - add search results tab if search is active
-    if search_term:
-        tab1, tab2, tab3, tab4 = st.tabs(["🔍 Search Results", "📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View"])
-        
-        with tab1:
-            create_search_results_view(people_df, search_term)
-        
-        with tab2:
-            create_workstream1_overview(people_df)
-        
-        with tab3:
-            create_hierarchical_drilldown(people_df)
-        
-        with tab4:
-            create_detailed_pivot_table(people_df)
-    else:
-        tab1, tab2, tab3 = st.tabs(["📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View"])
-        
-        with tab1:
-            create_workstream1_overview(people_df)
-        
-        with tab2:
-            create_hierarchical_drilldown(people_df)
-        
-        with tab3:
-            create_detailed_pivot_table(people_df)
+    # Create tabs based on available data
+    available_tabs = []
+    tab_functions = []
+    
+    if people_df is not None and not goals_df.empty:
+        # Both datasets available
+        if search_term:
+            available_tabs = ["🔍 Search Results", "📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View", "🎯 Goal Overview", "🔍 Goal Analysis", "🔗 Integrated View"]
+            tab_functions = [
+                lambda: create_search_results_view(people_df, search_term),
+                lambda: create_workstream1_overview(people_df),
+                lambda: create_hierarchical_drilldown(people_df),
+                lambda: create_detailed_pivot_table(people_df),
+                lambda: create_goal_overview(goals_df),
+                lambda: create_goal_drilldown(goals_df),
+                lambda: create_integrated_view(goals_df, people_df)
+            ]
+        else:
+            available_tabs = ["📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View", "🎯 Goal Overview", "🔍 Goal Analysis", "🔗 Integrated View"]
+            tab_functions = [
+                lambda: create_workstream1_overview(people_df),
+                lambda: create_hierarchical_drilldown(people_df),
+                lambda: create_detailed_pivot_table(people_df),
+                lambda: create_goal_overview(goals_df),
+                lambda: create_goal_drilldown(goals_df),
+                lambda: create_integrated_view(goals_df, people_df)
+            ]
+    elif people_df is not None:
+        # Only resource allocation data
+        if search_term:
+            available_tabs = ["🔍 Search Results", "📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View"]
+            tab_functions = [
+                lambda: create_search_results_view(people_df, search_term),
+                lambda: create_workstream1_overview(people_df),
+                lambda: create_hierarchical_drilldown(people_df),
+                lambda: create_detailed_pivot_table(people_df)
+            ]
+        else:
+            available_tabs = ["📈 Workstream 1 Overview", "🔍 Hierarchical Analysis", "📋 Detailed View"]
+            tab_functions = [
+                lambda: create_workstream1_overview(people_df),
+                lambda: create_hierarchical_drilldown(people_df),
+                lambda: create_detailed_pivot_table(people_df)
+            ]
+    elif not goals_df.empty:
+        # Only goal data
+        available_tabs = ["🎯 Goal Overview", "🔍 Goal Analysis"]
+        tab_functions = [
+            lambda: create_goal_overview(goals_df),
+            lambda: create_goal_drilldown(goals_df)
+        ]
+    
+    # Create tabs and execute functions
+    if available_tabs:
+        tabs = st.tabs(available_tabs)
+        for tab, func in zip(tabs, tab_functions):
+            with tab:
+                func()
     
     # Footer
     st.divider()
